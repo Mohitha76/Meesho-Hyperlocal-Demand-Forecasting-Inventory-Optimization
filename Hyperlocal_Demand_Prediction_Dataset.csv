@@ -1,0 +1,2401 @@
+Date,City,Category,Orders,Revenue,Stock_Available
+2024-01,Vijayawada,Kurti,190,104500,250
+2024-01,Vijayawada,Saree,466,419400,516
+2024-01,Vijayawada,Footwear,394,275800,516
+2024-01,Vijayawada,Handbags,481,384800,581
+2024-01,Vijayawada,Beauty,335,117250,410
+2024-01,Vijayawada,Kitchen,176,79200,226
+2024-01,Vijayawada,Home Decor,238,154700,292
+2024-01,Vijayawada,Mobile Accessories,198,59400,243
+2024-01,Vijayawada,Toys,262,104800,311
+2024-01,Vijayawada,Electronics,234,351000,283
+2024-01,Hyderabad,Kurti,455,250250,554
+2024-01,Hyderabad,Saree,267,240300,335
+2024-01,Hyderabad,Footwear,228,159600,276
+2024-01,Hyderabad,Handbags,409,327200,507
+2024-01,Hyderabad,Beauty,516,180600,572
+2024-01,Hyderabad,Kitchen,263,118350,306
+2024-01,Hyderabad,Home Decor,468,304200,583
+2024-01,Hyderabad,Mobile Accessories,312,93600,381
+2024-01,Hyderabad,Toys,252,100800,288
+2024-01,Hyderabad,Electronics,330,495000,427
+2024-01,Bengaluru,Kurti,477,262350,630
+2024-01,Bengaluru,Saree,418,376200,439
+2024-01,Bengaluru,Footwear,500,350000,632
+2024-01,Bengaluru,Handbags,249,199200,310
+2024-01,Bengaluru,Beauty,484,169400,635
+2024-01,Bengaluru,Kitchen,478,215100,581
+2024-01,Bengaluru,Home Decor,416,270400,442
+2024-01,Bengaluru,Mobile Accessories,193,57900,241
+2024-01,Bengaluru,Toys,523,209200,630
+2024-01,Bengaluru,Electronics,479,718500,506
+2024-01,Chennai,Kurti,190,104500,242
+2024-01,Chennai,Saree,438,394200,476
+2024-01,Chennai,Footwear,312,218400,360
+2024-01,Chennai,Handbags,205,164000,256
+2024-01,Chennai,Beauty,543,190050,613
+2024-01,Chennai,Kitchen,478,215100,507
+2024-01,Chennai,Home Decor,349,226850,391
+2024-01,Chennai,Mobile Accessories,185,55500,225
+2024-01,Chennai,Toys,370,148000,455
+2024-01,Chennai,Electronics,564,846000,673
+2024-01,Kochi,Kurti,488,268400,611
+2024-01,Kochi,Saree,304,273600,376
+2024-01,Kochi,Footwear,525,367500,670
+2024-01,Kochi,Handbags,343,274400,401
+2024-01,Kochi,Beauty,292,102200,367
+2024-01,Kochi,Kitchen,210,94500,223
+2024-01,Kochi,Home Decor,580,377000,725
+2024-01,Kochi,Mobile Accessories,315,94500,415
+2024-01,Kochi,Toys,482,192800,586
+2024-01,Kochi,Electronics,494,741000,631
+2024-01,Visakhapatnam,Kurti,337,185350,435
+2024-01,Visakhapatnam,Saree,463,416700,511
+2024-01,Visakhapatnam,Footwear,565,395500,669
+2024-01,Visakhapatnam,Handbags,253,202400,309
+2024-01,Visakhapatnam,Beauty,308,107800,335
+2024-01,Visakhapatnam,Kitchen,432,194400,506
+2024-01,Visakhapatnam,Home Decor,410,266500,456
+2024-01,Visakhapatnam,Mobile Accessories,511,153300,596
+2024-01,Visakhapatnam,Toys,417,166800,529
+2024-01,Visakhapatnam,Electronics,316,474000,420
+2024-01,Pune,Kurti,638,350900,713
+2024-01,Pune,Saree,553,497700,584
+2024-01,Pune,Footwear,271,189700,343
+2024-01,Pune,Handbags,416,332800,539
+2024-01,Pune,Beauty,486,170100,566
+2024-01,Pune,Kitchen,495,222750,664
+2024-01,Pune,Home Decor,364,236600,411
+2024-01,Pune,Mobile Accessories,330,99000,439
+2024-01,Pune,Toys,331,132400,369
+2024-01,Pune,Electronics,391,586500,495
+2024-01,Mumbai,Kurti,353,194150,389
+2024-01,Mumbai,Saree,251,225900,278
+2024-01,Mumbai,Footwear,608,425600,781
+2024-01,Mumbai,Handbags,240,192000,323
+2024-01,Mumbai,Beauty,498,174300,655
+2024-01,Mumbai,Kitchen,444,199800,521
+2024-01,Mumbai,Home Decor,457,297050,612
+2024-01,Mumbai,Mobile Accessories,272,81600,352
+2024-01,Mumbai,Toys,548,219200,658
+2024-01,Mumbai,Electronics,503,754500,544
+2024-01,Delhi,Kurti,315,173250,399
+2024-01,Delhi,Saree,489,440100,551
+2024-01,Delhi,Footwear,553,387100,627
+2024-01,Delhi,Handbags,217,173600,286
+2024-01,Delhi,Beauty,280,98000,348
+2024-01,Delhi,Kitchen,406,182700,468
+2024-01,Delhi,Home Decor,397,258050,493
+2024-01,Delhi,Mobile Accessories,404,121200,430
+2024-01,Delhi,Toys,277,110800,291
+2024-01,Delhi,Electronics,698,1047000,936
+2024-01,Kolkata,Kurti,316,173800,425
+2024-01,Kolkata,Saree,356,320400,409
+2024-01,Kolkata,Footwear,361,252700,463
+2024-01,Kolkata,Handbags,658,526400,800
+2024-01,Kolkata,Beauty,595,208250,658
+2024-01,Kolkata,Kitchen,646,290700,795
+2024-01,Kolkata,Home Decor,411,267150,508
+2024-01,Kolkata,Mobile Accessories,507,152100,662
+2024-01,Kolkata,Toys,468,187200,520
+2024-01,Kolkata,Electronics,259,388500,331
+2024-02,Vijayawada,Kurti,337,185350,402
+2024-02,Vijayawada,Saree,500,450000,647
+2024-02,Vijayawada,Footwear,332,232400,393
+2024-02,Vijayawada,Handbags,450,360000,578
+2024-02,Vijayawada,Beauty,185,64750,248
+2024-02,Vijayawada,Kitchen,428,192600,493
+2024-02,Vijayawada,Home Decor,406,263900,535
+2024-02,Vijayawada,Mobile Accessories,397,119100,439
+2024-02,Vijayawada,Toys,331,132400,413
+2024-02,Vijayawada,Electronics,184,276000,213
+2024-02,Hyderabad,Kurti,183,100650,223
+2024-02,Hyderabad,Saree,343,308700,389
+2024-02,Hyderabad,Footwear,240,168000,308
+2024-02,Hyderabad,Handbags,248,198400,300
+2024-02,Hyderabad,Beauty,479,167650,546
+2024-02,Hyderabad,Kitchen,326,146700,423
+2024-02,Hyderabad,Home Decor,475,308750,566
+2024-02,Hyderabad,Mobile Accessories,404,121200,425
+2024-02,Hyderabad,Toys,372,148800,392
+2024-02,Hyderabad,Electronics,235,352500,292
+2024-02,Bengaluru,Kurti,173,95150,218
+2024-02,Bengaluru,Saree,559,503100,688
+2024-02,Bengaluru,Footwear,268,187600,319
+2024-02,Bengaluru,Handbags,200,160000,245
+2024-02,Bengaluru,Beauty,504,176400,643
+2024-02,Bengaluru,Kitchen,198,89100,224
+2024-02,Bengaluru,Home Decor,336,218400,359
+2024-02,Bengaluru,Mobile Accessories,397,119100,467
+2024-02,Bengaluru,Toys,184,73600,194
+2024-02,Bengaluru,Electronics,298,447000,370
+2024-02,Chennai,Kurti,385,211750,453
+2024-02,Chennai,Saree,437,393300,472
+2024-02,Chennai,Footwear,353,247100,411
+2024-02,Chennai,Handbags,578,462400,634
+2024-02,Chennai,Beauty,201,70350,261
+2024-02,Chennai,Kitchen,538,242100,680
+2024-02,Chennai,Home Decor,585,380250,770
+2024-02,Chennai,Mobile Accessories,511,153300,659
+2024-02,Chennai,Toys,226,90400,302
+2024-02,Chennai,Electronics,398,597000,433
+2024-02,Kochi,Kurti,339,186450,365
+2024-02,Kochi,Saree,346,311400,372
+2024-02,Kochi,Footwear,226,158200,302
+2024-02,Kochi,Handbags,314,251200,362
+2024-02,Kochi,Beauty,365,127750,415
+2024-02,Kochi,Kitchen,582,261900,750
+2024-02,Kochi,Home Decor,567,368550,728
+2024-02,Kochi,Mobile Accessories,249,74700,309
+2024-02,Kochi,Toys,302,120800,331
+2024-02,Kochi,Electronics,384,576000,504
+2024-02,Visakhapatnam,Kurti,475,261250,571
+2024-02,Visakhapatnam,Saree,251,225900,298
+2024-02,Visakhapatnam,Footwear,633,443100,734
+2024-02,Visakhapatnam,Handbags,266,212800,293
+2024-02,Visakhapatnam,Beauty,257,89950,296
+2024-02,Visakhapatnam,Kitchen,360,162000,472
+2024-02,Visakhapatnam,Home Decor,430,279500,533
+2024-02,Visakhapatnam,Mobile Accessories,622,186600,824
+2024-02,Visakhapatnam,Toys,353,141200,421
+2024-02,Visakhapatnam,Electronics,510,765000,658
+2024-02,Pune,Kurti,254,139700,295
+2024-02,Pune,Saree,649,584100,730
+2024-02,Pune,Footwear,246,172200,306
+2024-02,Pune,Handbags,462,369600,560
+2024-02,Pune,Beauty,269,94150,322
+2024-02,Pune,Kitchen,501,225450,577
+2024-02,Pune,Home Decor,584,379600,673
+2024-02,Pune,Mobile Accessories,584,175200,651
+2024-02,Pune,Toys,556,222400,637
+2024-02,Pune,Electronics,229,343500,278
+2024-02,Mumbai,Kurti,685,376750,857
+2024-02,Mumbai,Saree,629,566100,670
+2024-02,Mumbai,Footwear,604,422800,662
+2024-02,Mumbai,Handbags,436,348800,585
+2024-02,Mumbai,Beauty,649,227150,821
+2024-02,Mumbai,Kitchen,658,296100,869
+2024-02,Mumbai,Home Decor,331,215150,355
+2024-02,Mumbai,Mobile Accessories,373,111900,422
+2024-02,Mumbai,Toys,322,128800,427
+2024-02,Mumbai,Electronics,492,738000,594
+2024-02,Delhi,Kurti,451,248050,550
+2024-02,Delhi,Saree,565,508500,710
+2024-02,Delhi,Footwear,324,226800,385
+2024-02,Delhi,Handbags,279,223200,355
+2024-02,Delhi,Beauty,231,80850,292
+2024-02,Delhi,Kitchen,227,102150,295
+2024-02,Delhi,Home Decor,307,199550,328
+2024-02,Delhi,Mobile Accessories,302,90600,317
+2024-02,Delhi,Toys,536,214400,637
+2024-02,Delhi,Electronics,366,549000,486
+2024-02,Kolkata,Kurti,388,213400,470
+2024-02,Kolkata,Saree,643,578700,867
+2024-02,Kolkata,Footwear,292,204400,313
+2024-02,Kolkata,Handbags,690,552000,926
+2024-02,Kolkata,Beauty,736,257600,934
+2024-02,Kolkata,Kitchen,380,171000,439
+2024-02,Kolkata,Home Decor,573,372450,619
+2024-02,Kolkata,Mobile Accessories,396,118800,461
+2024-02,Kolkata,Toys,378,151200,494
+2024-02,Kolkata,Electronics,255,382500,283
+2024-03,Vijayawada,Kurti,237,130350,260
+2024-03,Vijayawada,Saree,213,191700,226
+2024-03,Vijayawada,Footwear,332,232400,425
+2024-03,Vijayawada,Handbags,482,385600,646
+2024-03,Vijayawada,Beauty,448,156800,478
+2024-03,Vijayawada,Kitchen,388,174600,499
+2024-03,Vijayawada,Home Decor,515,334750,542
+2024-03,Vijayawada,Mobile Accessories,159,47700,205
+2024-03,Vijayawada,Toys,204,81600,261
+2024-03,Vijayawada,Electronics,186,279000,223
+2024-03,Hyderabad,Kurti,285,156750,354
+2024-03,Hyderabad,Saree,291,261900,322
+2024-03,Hyderabad,Footwear,461,322700,583
+2024-03,Hyderabad,Handbags,202,161600,264
+2024-03,Hyderabad,Beauty,243,85050,290
+2024-03,Hyderabad,Kitchen,273,122850,319
+2024-03,Hyderabad,Home Decor,203,131950,217
+2024-03,Hyderabad,Mobile Accessories,440,132000,484
+2024-03,Hyderabad,Toys,432,172800,535
+2024-03,Hyderabad,Electronics,348,522000,389
+2024-03,Bengaluru,Kurti,338,185900,365
+2024-03,Bengaluru,Saree,434,390600,538
+2024-03,Bengaluru,Footwear,345,241500,381
+2024-03,Bengaluru,Handbags,408,326400,449
+2024-03,Bengaluru,Beauty,367,128450,467
+2024-03,Bengaluru,Kitchen,549,247050,694
+2024-03,Bengaluru,Home Decor,213,138450,234
+2024-03,Bengaluru,Mobile Accessories,470,141000,618
+2024-03,Bengaluru,Toys,187,74800,251
+2024-03,Bengaluru,Electronics,398,597000,493
+2024-03,Chennai,Kurti,406,223300,492
+2024-03,Chennai,Saree,484,435600,638
+2024-03,Chennai,Footwear,351,245700,388
+2024-03,Chennai,Handbags,236,188800,318
+2024-03,Chennai,Beauty,296,103600,348
+2024-03,Chennai,Kitchen,492,221400,655
+2024-03,Chennai,Home Decor,487,316550,631
+2024-03,Chennai,Mobile Accessories,367,110100,451
+2024-03,Chennai,Toys,486,194400,553
+2024-03,Chennai,Electronics,533,799500,668
+2024-03,Kochi,Kurti,244,134200,327
+2024-03,Kochi,Saree,420,378000,514
+2024-03,Kochi,Footwear,469,328300,608
+2024-03,Kochi,Handbags,527,421600,676
+2024-03,Kochi,Beauty,390,136500,444
+2024-03,Kochi,Kitchen,250,112500,272
+2024-03,Kochi,Home Decor,346,224900,453
+2024-03,Kochi,Mobile Accessories,396,118800,465
+2024-03,Kochi,Toys,249,99600,310
+2024-03,Kochi,Electronics,615,922500,828
+2024-03,Visakhapatnam,Kurti,643,353650,771
+2024-03,Visakhapatnam,Saree,585,526500,650
+2024-03,Visakhapatnam,Footwear,548,383600,719
+2024-03,Visakhapatnam,Handbags,276,220800,354
+2024-03,Visakhapatnam,Beauty,313,109550,394
+2024-03,Visakhapatnam,Kitchen,495,222750,546
+2024-03,Visakhapatnam,Home Decor,403,261950,436
+2024-03,Visakhapatnam,Mobile Accessories,357,107100,478
+2024-03,Visakhapatnam,Toys,587,234800,621
+2024-03,Visakhapatnam,Electronics,211,316500,270
+2024-03,Pune,Kurti,574,315700,724
+2024-03,Pune,Saree,646,581400,678
+2024-03,Pune,Footwear,481,336700,547
+2024-03,Pune,Handbags,420,336000,512
+2024-03,Pune,Beauty,275,96250,313
+2024-03,Pune,Kitchen,563,253350,700
+2024-03,Pune,Home Decor,252,163800,269
+2024-03,Pune,Mobile Accessories,255,76500,329
+2024-03,Pune,Toys,423,169200,463
+2024-03,Pune,Electronics,475,712500,536
+2024-03,Mumbai,Kurti,283,155650,365
+2024-03,Mumbai,Saree,283,254700,368
+2024-03,Mumbai,Footwear,307,214900,373
+2024-03,Mumbai,Handbags,402,321600,511
+2024-03,Mumbai,Beauty,650,227500,812
+2024-03,Mumbai,Kitchen,393,176850,486
+2024-03,Mumbai,Home Decor,457,297050,581
+2024-03,Mumbai,Mobile Accessories,352,105600,432
+2024-03,Mumbai,Toys,609,243600,718
+2024-03,Mumbai,Electronics,296,444000,344
+2024-03,Delhi,Kurti,575,316250,757
+2024-03,Delhi,Saree,238,214200,257
+2024-03,Delhi,Footwear,355,248500,448
+2024-03,Delhi,Handbags,626,500800,698
+2024-03,Delhi,Beauty,541,189350,569
+2024-03,Delhi,Kitchen,700,315000,763
+2024-03,Delhi,Home Decor,461,299650,541
+2024-03,Delhi,Mobile Accessories,665,199500,877
+2024-03,Delhi,Toys,531,212400,609
+2024-03,Delhi,Electronics,636,954000,797
+2024-03,Kolkata,Kurti,236,129800,316
+2024-03,Kolkata,Saree,292,262800,311
+2024-03,Kolkata,Footwear,339,237300,407
+2024-03,Kolkata,Handbags,639,511200,821
+2024-03,Kolkata,Beauty,242,84700,254
+2024-03,Kolkata,Kitchen,677,304650,799
+2024-03,Kolkata,Home Decor,304,197600,337
+2024-03,Kolkata,Mobile Accessories,455,136500,585
+2024-03,Kolkata,Toys,402,160800,508
+2024-03,Kolkata,Electronics,710,1065000,822
+2024-04,Vijayawada,Kurti,207,113850,260
+2024-04,Vijayawada,Saree,486,437400,635
+2024-04,Vijayawada,Footwear,252,176400,327
+2024-04,Vijayawada,Handbags,236,188800,283
+2024-04,Vijayawada,Beauty,319,111650,391
+2024-04,Vijayawada,Kitchen,378,170100,498
+2024-04,Vijayawada,Home Decor,213,138450,262
+2024-04,Vijayawada,Mobile Accessories,210,63000,240
+2024-04,Vijayawada,Toys,216,86400,230
+2024-04,Vijayawada,Electronics,520,780000,701
+2024-04,Hyderabad,Kurti,513,282150,559
+2024-04,Hyderabad,Saree,168,151200,226
+2024-04,Hyderabad,Footwear,478,334600,524
+2024-04,Hyderabad,Handbags,392,313600,453
+2024-04,Hyderabad,Beauty,337,117950,446
+2024-04,Hyderabad,Kitchen,523,235350,672
+2024-04,Hyderabad,Home Decor,218,141700,230
+2024-04,Hyderabad,Mobile Accessories,361,108300,452
+2024-04,Hyderabad,Toys,343,137200,415
+2024-04,Hyderabad,Electronics,396,594000,462
+2024-04,Bengaluru,Kurti,235,129250,255
+2024-04,Bengaluru,Saree,522,469800,604
+2024-04,Bengaluru,Footwear,506,354200,549
+2024-04,Bengaluru,Handbags,544,435200,627
+2024-04,Bengaluru,Beauty,462,161700,570
+2024-04,Bengaluru,Kitchen,555,249750,631
+2024-04,Bengaluru,Home Decor,352,228800,474
+2024-04,Bengaluru,Mobile Accessories,310,93000,373
+2024-04,Bengaluru,Toys,493,197200,575
+2024-04,Bengaluru,Electronics,469,703500,537
+2024-04,Chennai,Kurti,208,114400,230
+2024-04,Chennai,Saree,537,483300,602
+2024-04,Chennai,Footwear,518,362600,555
+2024-04,Chennai,Handbags,474,379200,588
+2024-04,Chennai,Beauty,452,158200,515
+2024-04,Chennai,Kitchen,465,209250,587
+2024-04,Chennai,Home Decor,213,138450,255
+2024-04,Chennai,Mobile Accessories,232,69600,260
+2024-04,Chennai,Toys,458,183200,489
+2024-04,Chennai,Electronics,186,279000,208
+2024-04,Kochi,Kurti,310,170500,416
+2024-04,Kochi,Saree,357,321300,400
+2024-04,Kochi,Footwear,470,329000,633
+2024-04,Kochi,Handbags,315,252000,359
+2024-04,Kochi,Beauty,503,176050,582
+2024-04,Kochi,Kitchen,315,141750,345
+2024-04,Kochi,Home Decor,609,395850,690
+2024-04,Kochi,Mobile Accessories,623,186900,783
+2024-04,Kochi,Toys,312,124800,394
+2024-04,Kochi,Electronics,337,505500,354
+2024-04,Visakhapatnam,Kurti,268,147400,315
+2024-04,Visakhapatnam,Saree,343,308700,387
+2024-04,Visakhapatnam,Footwear,324,226800,353
+2024-04,Visakhapatnam,Handbags,584,467200,614
+2024-04,Visakhapatnam,Beauty,204,71400,242
+2024-04,Visakhapatnam,Kitchen,483,217350,649
+2024-04,Visakhapatnam,Home Decor,288,187200,340
+2024-04,Visakhapatnam,Mobile Accessories,373,111900,477
+2024-04,Visakhapatnam,Toys,586,234400,679
+2024-04,Visakhapatnam,Electronics,294,441000,326
+2024-04,Pune,Kurti,631,347050,725
+2024-04,Pune,Saree,531,477900,621
+2024-04,Pune,Footwear,268,187600,341
+2024-04,Pune,Handbags,662,529600,852
+2024-04,Pune,Beauty,438,153300,462
+2024-04,Pune,Kitchen,406,182700,510
+2024-04,Pune,Home Decor,553,359450,697
+2024-04,Pune,Mobile Accessories,279,83700,337
+2024-04,Pune,Toys,469,187600,593
+2024-04,Pune,Electronics,347,520500,396
+2024-04,Mumbai,Kurti,277,152350,350
+2024-04,Mumbai,Saree,329,296100,422
+2024-04,Mumbai,Footwear,396,277200,421
+2024-04,Mumbai,Handbags,591,472800,717
+2024-04,Mumbai,Beauty,324,113400,376
+2024-04,Mumbai,Kitchen,267,120150,350
+2024-04,Mumbai,Home Decor,349,226850,460
+2024-04,Mumbai,Mobile Accessories,653,195900,859
+2024-04,Mumbai,Toys,296,118400,347
+2024-04,Mumbai,Electronics,274,411000,350
+2024-04,Delhi,Kurti,697,383350,926
+2024-04,Delhi,Saree,608,547200,781
+2024-04,Delhi,Footwear,618,432600,703
+2024-04,Delhi,Handbags,707,565600,829
+2024-04,Delhi,Beauty,687,240450,767
+2024-04,Delhi,Kitchen,454,204300,544
+2024-04,Delhi,Home Decor,405,263250,524
+2024-04,Delhi,Mobile Accessories,455,136500,538
+2024-04,Delhi,Toys,332,132800,444
+2024-04,Delhi,Electronics,316,474000,354
+2024-04,Kolkata,Kurti,636,349800,825
+2024-04,Kolkata,Saree,319,287100,337
+2024-04,Kolkata,Footwear,247,172900,289
+2024-04,Kolkata,Handbags,702,561600,908
+2024-04,Kolkata,Beauty,727,254450,879
+2024-04,Kolkata,Kitchen,244,109800,277
+2024-04,Kolkata,Home Decor,442,287300,583
+2024-04,Kolkata,Mobile Accessories,630,189000,799
+2024-04,Kolkata,Toys,453,181200,561
+2024-04,Kolkata,Electronics,504,756000,616
+2024-05,Vijayawada,Kurti,218,119900,253
+2024-05,Vijayawada,Saree,162,145800,177
+2024-05,Vijayawada,Footwear,247,172900,282
+2024-05,Vijayawada,Handbags,344,275200,386
+2024-05,Vijayawada,Beauty,446,156100,491
+2024-05,Vijayawada,Kitchen,294,132300,310
+2024-05,Vijayawada,Home Decor,301,195650,348
+2024-05,Vijayawada,Mobile Accessories,328,98400,399
+2024-05,Vijayawada,Toys,452,180800,535
+2024-05,Vijayawada,Electronics,274,411000,320
+2024-05,Hyderabad,Kurti,193,106150,209
+2024-05,Hyderabad,Saree,515,463500,546
+2024-05,Hyderabad,Footwear,497,347900,598
+2024-05,Hyderabad,Handbags,401,320800,484
+2024-05,Hyderabad,Beauty,497,173950,648
+2024-05,Hyderabad,Kitchen,419,188550,521
+2024-05,Hyderabad,Home Decor,268,174200,330
+2024-05,Hyderabad,Mobile Accessories,332,99600,372
+2024-05,Hyderabad,Toys,564,225600,642
+2024-05,Hyderabad,Electronics,511,766500,590
+2024-05,Bengaluru,Kurti,507,278850,545
+2024-05,Bengaluru,Saree,389,350100,420
+2024-05,Bengaluru,Footwear,223,156100,283
+2024-05,Bengaluru,Handbags,506,404800,630
+2024-05,Bengaluru,Beauty,449,157150,590
+2024-05,Bengaluru,Kitchen,541,243450,651
+2024-05,Bengaluru,Home Decor,247,160550,272
+2024-05,Bengaluru,Mobile Accessories,242,72600,261
+2024-05,Bengaluru,Toys,460,184000,499
+2024-05,Bengaluru,Electronics,260,390000,295
+2024-05,Chennai,Kurti,269,147950,312
+2024-05,Chennai,Saree,617,555300,791
+2024-05,Chennai,Footwear,612,428400,709
+2024-05,Chennai,Handbags,443,354400,519
+2024-05,Chennai,Beauty,300,105000,365
+2024-05,Chennai,Kitchen,557,250650,651
+2024-05,Chennai,Home Decor,460,299000,503
+2024-05,Chennai,Mobile Accessories,367,110100,440
+2024-05,Chennai,Toys,476,190400,564
+2024-05,Chennai,Electronics,300,450000,322
+2024-05,Kochi,Kurti,393,216150,478
+2024-05,Kochi,Saree,603,542700,724
+2024-05,Kochi,Footwear,568,397600,744
+2024-05,Kochi,Handbags,286,228800,335
+2024-05,Kochi,Beauty,550,192500,614
+2024-05,Kochi,Kitchen,454,204300,534
+2024-05,Kochi,Home Decor,294,191100,356
+2024-05,Kochi,Mobile Accessories,539,161700,624
+2024-05,Kochi,Toys,311,124400,348
+2024-05,Kochi,Electronics,369,553500,399
+2024-05,Visakhapatnam,Kurti,214,117700,288
+2024-05,Visakhapatnam,Saree,245,220500,292
+2024-05,Visakhapatnam,Footwear,255,178500,324
+2024-05,Visakhapatnam,Handbags,661,528800,858
+2024-05,Visakhapatnam,Beauty,618,216300,745
+2024-05,Visakhapatnam,Kitchen,415,186750,474
+2024-05,Visakhapatnam,Home Decor,241,156650,315
+2024-05,Visakhapatnam,Mobile Accessories,245,73500,268
+2024-05,Visakhapatnam,Toys,622,248800,747
+2024-05,Visakhapatnam,Electronics,218,327000,233
+2024-05,Pune,Kurti,407,223850,478
+2024-05,Pune,Saree,304,273600,357
+2024-05,Pune,Footwear,475,332500,619
+2024-05,Pune,Handbags,294,235200,324
+2024-05,Pune,Beauty,387,135450,510
+2024-05,Pune,Kitchen,266,119700,333
+2024-05,Pune,Home Decor,266,172900,321
+2024-05,Pune,Mobile Accessories,329,98700,430
+2024-05,Pune,Toys,506,202400,590
+2024-05,Pune,Electronics,575,862500,709
+2024-05,Mumbai,Kurti,648,356400,784
+2024-05,Mumbai,Saree,482,433800,635
+2024-05,Mumbai,Footwear,508,355600,673
+2024-05,Mumbai,Handbags,433,346400,511
+2024-05,Mumbai,Beauty,313,109550,341
+2024-05,Mumbai,Kitchen,679,305550,905
+2024-05,Mumbai,Home Decor,462,300300,548
+2024-05,Mumbai,Mobile Accessories,491,147300,525
+2024-05,Mumbai,Toys,567,226800,596
+2024-05,Mumbai,Electronics,443,664500,539
+2024-05,Delhi,Kurti,731,402050,820
+2024-05,Delhi,Saree,311,279900,350
+2024-05,Delhi,Footwear,491,343700,544
+2024-05,Delhi,Handbags,672,537600,865
+2024-05,Delhi,Beauty,666,233100,883
+2024-05,Delhi,Kitchen,309,139050,394
+2024-05,Delhi,Home Decor,458,297700,521
+2024-05,Delhi,Mobile Accessories,254,76200,296
+2024-05,Delhi,Toys,352,140800,473
+2024-05,Delhi,Electronics,423,634500,533
+2024-05,Kolkata,Kurti,310,170500,391
+2024-05,Kolkata,Saree,690,621000,790
+2024-05,Kolkata,Footwear,302,211400,331
+2024-05,Kolkata,Handbags,684,547200,827
+2024-05,Kolkata,Beauty,620,217000,673
+2024-05,Kolkata,Kitchen,414,186300,465
+2024-05,Kolkata,Home Decor,526,341900,658
+2024-05,Kolkata,Mobile Accessories,416,124800,475
+2024-05,Kolkata,Toys,416,166400,497
+2024-05,Kolkata,Electronics,372,558000,467
+2024-06,Vijayawada,Kurti,179,98450,209
+2024-06,Vijayawada,Saree,214,192600,269
+2024-06,Vijayawada,Footwear,336,235200,428
+2024-06,Vijayawada,Handbags,316,252800,393
+2024-06,Vijayawada,Beauty,207,72450,225
+2024-06,Vijayawada,Kitchen,223,100350,248
+2024-06,Vijayawada,Home Decor,317,206050,404
+2024-06,Vijayawada,Mobile Accessories,322,96600,358
+2024-06,Vijayawada,Toys,234,93600,293
+2024-06,Vijayawada,Electronics,401,601500,510
+2024-06,Hyderabad,Kurti,386,212300,440
+2024-06,Hyderabad,Saree,176,158400,199
+2024-06,Hyderabad,Footwear,539,377300,703
+2024-06,Hyderabad,Handbags,379,303200,458
+2024-06,Hyderabad,Beauty,272,95200,360
+2024-06,Hyderabad,Kitchen,460,207000,492
+2024-06,Hyderabad,Home Decor,373,242450,416
+2024-06,Hyderabad,Mobile Accessories,527,158100,635
+2024-06,Hyderabad,Toys,568,227200,693
+2024-06,Hyderabad,Electronics,392,588000,423
+2024-06,Bengaluru,Kurti,206,113300,245
+2024-06,Bengaluru,Saree,450,405000,589
+2024-06,Bengaluru,Footwear,291,203700,313
+2024-06,Bengaluru,Handbags,245,196000,304
+2024-06,Bengaluru,Beauty,560,196000,613
+2024-06,Bengaluru,Kitchen,584,262800,691
+2024-06,Bengaluru,Home Decor,306,198900,409
+2024-06,Bengaluru,Mobile Accessories,379,113700,452
+2024-06,Bengaluru,Toys,415,166000,439
+2024-06,Bengaluru,Electronics,429,643500,534
+2024-06,Chennai,Kurti,357,196350,460
+2024-06,Chennai,Saree,277,249300,313
+2024-06,Chennai,Footwear,209,146300,280
+2024-06,Chennai,Handbags,626,500800,703
+2024-06,Chennai,Beauty,490,171500,567
+2024-06,Chennai,Kitchen,346,155700,440
+2024-06,Chennai,Home Decor,247,160550,292
+2024-06,Chennai,Mobile Accessories,269,80700,321
+2024-06,Chennai,Toys,218,87200,270
+2024-06,Chennai,Electronics,531,796500,644
+2024-06,Kochi,Kurti,286,157300,336
+2024-06,Kochi,Saree,510,459000,544
+2024-06,Kochi,Footwear,513,359100,664
+2024-06,Kochi,Handbags,240,192000,289
+2024-06,Kochi,Beauty,347,121450,397
+2024-06,Kochi,Kitchen,492,221400,574
+2024-06,Kochi,Home Decor,364,236600,459
+2024-06,Kochi,Mobile Accessories,480,144000,524
+2024-06,Kochi,Toys,434,173600,492
+2024-06,Kochi,Electronics,526,789000,575
+2024-06,Visakhapatnam,Kurti,583,320650,763
+2024-06,Visakhapatnam,Saree,237,213300,303
+2024-06,Visakhapatnam,Footwear,268,187600,348
+2024-06,Visakhapatnam,Handbags,382,305600,443
+2024-06,Visakhapatnam,Beauty,343,120050,426
+2024-06,Visakhapatnam,Kitchen,371,166950,440
+2024-06,Visakhapatnam,Home Decor,225,146250,291
+2024-06,Visakhapatnam,Mobile Accessories,684,205200,807
+2024-06,Visakhapatnam,Toys,680,272000,874
+2024-06,Visakhapatnam,Electronics,566,849000,614
+2024-06,Pune,Kurti,480,264000,639
+2024-06,Pune,Saree,480,432000,646
+2024-06,Pune,Footwear,636,445200,710
+2024-06,Pune,Handbags,563,450400,626
+2024-06,Pune,Beauty,544,190400,648
+2024-06,Pune,Kitchen,483,217350,619
+2024-06,Pune,Home Decor,480,312000,531
+2024-06,Pune,Mobile Accessories,574,172200,652
+2024-06,Pune,Toys,467,186800,630
+2024-06,Pune,Electronics,420,630000,494
+2024-06,Mumbai,Kurti,383,210650,478
+2024-06,Mumbai,Saree,733,659700,970
+2024-06,Mumbai,Footwear,677,473900,876
+2024-06,Mumbai,Handbags,264,211200,314
+2024-06,Mumbai,Beauty,546,191100,665
+2024-06,Mumbai,Kitchen,245,110250,302
+2024-06,Mumbai,Home Decor,444,288600,499
+2024-06,Mumbai,Mobile Accessories,729,218700,811
+2024-06,Mumbai,Toys,660,264000,857
+2024-06,Mumbai,Electronics,460,690000,492
+2024-06,Delhi,Kurti,251,138050,318
+2024-06,Delhi,Saree,354,318600,471
+2024-06,Delhi,Footwear,645,451500,796
+2024-06,Delhi,Handbags,600,480000,747
+2024-06,Delhi,Beauty,231,80850,292
+2024-06,Delhi,Kitchen,465,209250,593
+2024-06,Delhi,Home Decor,616,400400,760
+2024-06,Delhi,Mobile Accessories,597,179100,730
+2024-06,Delhi,Toys,515,206000,593
+2024-06,Delhi,Electronics,284,426000,336
+2024-06,Kolkata,Kurti,765,420750,822
+2024-06,Kolkata,Saree,779,701100,827
+2024-06,Kolkata,Footwear,398,278600,526
+2024-06,Kolkata,Handbags,341,272800,380
+2024-06,Kolkata,Beauty,363,127050,443
+2024-06,Kolkata,Kitchen,346,155700,403
+2024-06,Kolkata,Home Decor,414,269100,513
+2024-06,Kolkata,Mobile Accessories,414,124200,547
+2024-06,Kolkata,Toys,781,312400,879
+2024-06,Kolkata,Electronics,523,784500,649
+2024-07,Vijayawada,Kurti,394,216700,420
+2024-07,Vijayawada,Saree,381,342900,511
+2024-07,Vijayawada,Footwear,288,201600,363
+2024-07,Vijayawada,Handbags,246,196800,295
+2024-07,Vijayawada,Beauty,422,147700,464
+2024-07,Vijayawada,Kitchen,192,86400,232
+2024-07,Vijayawada,Home Decor,554,360100,681
+2024-07,Vijayawada,Mobile Accessories,280,84000,367
+2024-07,Vijayawada,Toys,487,194800,529
+2024-07,Vijayawada,Electronics,428,642000,505
+2024-07,Hyderabad,Kurti,475,261250,552
+2024-07,Hyderabad,Saree,343,308700,389
+2024-07,Hyderabad,Footwear,366,256200,397
+2024-07,Hyderabad,Handbags,462,369600,622
+2024-07,Hyderabad,Beauty,310,108500,326
+2024-07,Hyderabad,Kitchen,575,258750,711
+2024-07,Hyderabad,Home Decor,224,145600,285
+2024-07,Hyderabad,Mobile Accessories,544,163200,621
+2024-07,Hyderabad,Toys,562,224800,726
+2024-07,Hyderabad,Electronics,559,838500,654
+2024-07,Bengaluru,Kurti,273,150150,311
+2024-07,Bengaluru,Saree,603,542700,714
+2024-07,Bengaluru,Footwear,335,234500,392
+2024-07,Bengaluru,Handbags,616,492800,790
+2024-07,Bengaluru,Beauty,320,112000,393
+2024-07,Bengaluru,Kitchen,583,262350,737
+2024-07,Bengaluru,Home Decor,311,202150,328
+2024-07,Bengaluru,Mobile Accessories,518,155400,635
+2024-07,Bengaluru,Toys,351,140400,428
+2024-07,Bengaluru,Electronics,427,640500,573
+2024-07,Chennai,Kurti,479,263450,631
+2024-07,Chennai,Saree,336,302400,397
+2024-07,Chennai,Footwear,408,285600,546
+2024-07,Chennai,Handbags,383,306400,498
+2024-07,Chennai,Beauty,385,134750,427
+2024-07,Chennai,Kitchen,212,95400,254
+2024-07,Chennai,Home Decor,390,253500,490
+2024-07,Chennai,Mobile Accessories,619,185700,812
+2024-07,Chennai,Toys,609,243600,753
+2024-07,Chennai,Electronics,351,526500,428
+2024-07,Kochi,Kurti,641,352550,824
+2024-07,Kochi,Saree,489,440100,583
+2024-07,Kochi,Footwear,419,293300,469
+2024-07,Kochi,Handbags,297,237600,355
+2024-07,Kochi,Beauty,623,218050,749
+2024-07,Kochi,Kitchen,479,215550,540
+2024-07,Kochi,Home Decor,229,148850,300
+2024-07,Kochi,Mobile Accessories,487,146100,584
+2024-07,Kochi,Toys,428,171200,565
+2024-07,Kochi,Electronics,225,337500,295
+2024-07,Visakhapatnam,Kurti,212,116600,243
+2024-07,Visakhapatnam,Saree,330,297000,414
+2024-07,Visakhapatnam,Footwear,568,397600,654
+2024-07,Visakhapatnam,Handbags,631,504800,730
+2024-07,Visakhapatnam,Beauty,252,88200,328
+2024-07,Visakhapatnam,Kitchen,243,109350,296
+2024-07,Visakhapatnam,Home Decor,627,407550,830
+2024-07,Visakhapatnam,Mobile Accessories,494,148200,574
+2024-07,Visakhapatnam,Toys,414,165600,524
+2024-07,Visakhapatnam,Electronics,617,925500,687
+2024-07,Pune,Kurti,726,399300,831
+2024-07,Pune,Saree,416,374400,457
+2024-07,Pune,Footwear,557,389900,646
+2024-07,Pune,Handbags,719,575200,969
+2024-07,Pune,Beauty,646,226100,726
+2024-07,Pune,Kitchen,225,101250,281
+2024-07,Pune,Home Decor,230,149500,250
+2024-07,Pune,Mobile Accessories,698,209400,755
+2024-07,Pune,Toys,607,242800,815
+2024-07,Pune,Electronics,580,870000,774
+2024-07,Mumbai,Kurti,376,206800,447
+2024-07,Mumbai,Saree,362,325800,403
+2024-07,Mumbai,Footwear,426,298200,569
+2024-07,Mumbai,Handbags,370,296000,441
+2024-07,Mumbai,Beauty,630,220500,807
+2024-07,Mumbai,Kitchen,553,248850,658
+2024-07,Mumbai,Home Decor,297,193050,395
+2024-07,Mumbai,Mobile Accessories,356,106800,378
+2024-07,Mumbai,Toys,731,292400,849
+2024-07,Mumbai,Electronics,642,963000,753
+2024-07,Delhi,Kurti,448,246400,588
+2024-07,Delhi,Saree,467,420300,579
+2024-07,Delhi,Footwear,760,532000,887
+2024-07,Delhi,Handbags,652,521600,876
+2024-07,Delhi,Beauty,602,210700,752
+2024-07,Delhi,Kitchen,435,195750,551
+2024-07,Delhi,Home Decor,370,240500,416
+2024-07,Delhi,Mobile Accessories,478,143400,544
+2024-07,Delhi,Toys,774,309600,930
+2024-07,Delhi,Electronics,304,456000,387
+2024-07,Kolkata,Kurti,404,222200,453
+2024-07,Kolkata,Saree,355,319500,443
+2024-07,Kolkata,Footwear,652,456400,725
+2024-07,Kolkata,Handbags,550,440000,618
+2024-07,Kolkata,Beauty,319,111650,363
+2024-07,Kolkata,Kitchen,329,148050,366
+2024-07,Kolkata,Home Decor,466,302900,521
+2024-07,Kolkata,Mobile Accessories,743,222900,878
+2024-07,Kolkata,Toys,781,312400,926
+2024-07,Kolkata,Electronics,672,1008000,865
+2024-08,Vijayawada,Kurti,430,236500,549
+2024-08,Vijayawada,Saree,564,507600,726
+2024-08,Vijayawada,Footwear,272,190400,285
+2024-08,Vijayawada,Handbags,406,324800,514
+2024-08,Vijayawada,Beauty,188,65800,212
+2024-08,Vijayawada,Kitchen,338,152100,383
+2024-08,Vijayawada,Home Decor,380,247000,487
+2024-08,Vijayawada,Mobile Accessories,192,57600,203
+2024-08,Vijayawada,Toys,323,129200,397
+2024-08,Vijayawada,Electronics,352,528000,388
+2024-08,Hyderabad,Kurti,458,251900,523
+2024-08,Hyderabad,Saree,420,378000,464
+2024-08,Hyderabad,Footwear,290,203000,371
+2024-08,Hyderabad,Handbags,582,465600,657
+2024-08,Hyderabad,Beauty,368,128800,404
+2024-08,Hyderabad,Kitchen,223,100350,272
+2024-08,Hyderabad,Home Decor,365,237250,470
+2024-08,Hyderabad,Mobile Accessories,554,166200,691
+2024-08,Hyderabad,Toys,373,149200,486
+2024-08,Hyderabad,Electronics,220,330000,265
+2024-08,Bengaluru,Kurti,334,183700,378
+2024-08,Bengaluru,Saree,277,249300,326
+2024-08,Bengaluru,Footwear,275,192500,354
+2024-08,Bengaluru,Handbags,476,380800,561
+2024-08,Bengaluru,Beauty,472,165200,606
+2024-08,Bengaluru,Kitchen,237,106650,294
+2024-08,Bengaluru,Home Decor,337,219050,438
+2024-08,Bengaluru,Mobile Accessories,364,109200,453
+2024-08,Bengaluru,Toys,248,99200,317
+2024-08,Bengaluru,Electronics,238,357000,273
+2024-08,Chennai,Kurti,203,111650,264
+2024-08,Chennai,Saree,587,528300,732
+2024-08,Chennai,Footwear,374,261800,463
+2024-08,Chennai,Handbags,626,500800,822
+2024-08,Chennai,Beauty,494,172900,662
+2024-08,Chennai,Kitchen,617,277650,739
+2024-08,Chennai,Home Decor,418,271700,460
+2024-08,Chennai,Mobile Accessories,216,64800,246
+2024-08,Chennai,Toys,474,189600,579
+2024-08,Chennai,Electronics,517,775500,552
+2024-08,Kochi,Kurti,262,144100,324
+2024-08,Kochi,Saree,387,348300,483
+2024-08,Kochi,Footwear,268,187600,287
+2024-08,Kochi,Handbags,415,332000,517
+2024-08,Kochi,Beauty,652,228200,852
+2024-08,Kochi,Kitchen,480,216000,607
+2024-08,Kochi,Home Decor,658,427700,875
+2024-08,Kochi,Mobile Accessories,280,84000,320
+2024-08,Kochi,Toys,667,266800,834
+2024-08,Kochi,Electronics,554,831000,610
+2024-08,Visakhapatnam,Kurti,594,326700,762
+2024-08,Visakhapatnam,Saree,253,227700,284
+2024-08,Visakhapatnam,Footwear,696,487200,906
+2024-08,Visakhapatnam,Handbags,615,492000,721
+2024-08,Visakhapatnam,Beauty,448,156800,476
+2024-08,Visakhapatnam,Kitchen,220,99000,251
+2024-08,Visakhapatnam,Home Decor,488,317200,621
+2024-08,Visakhapatnam,Mobile Accessories,584,175200,730
+2024-08,Visakhapatnam,Toys,602,240800,653
+2024-08,Visakhapatnam,Electronics,327,490500,441
+2024-08,Pune,Kurti,441,242550,546
+2024-08,Pune,Saree,244,219600,319
+2024-08,Pune,Footwear,460,322000,496
+2024-08,Pune,Handbags,563,450400,748
+2024-08,Pune,Beauty,469,164150,591
+2024-08,Pune,Kitchen,370,166500,416
+2024-08,Pune,Home Decor,246,159900,325
+2024-08,Pune,Mobile Accessories,459,137700,600
+2024-08,Pune,Toys,229,91600,254
+2024-08,Pune,Electronics,300,450000,354
+2024-08,Mumbai,Kurti,564,310200,723
+2024-08,Mumbai,Saree,721,648900,826
+2024-08,Mumbai,Footwear,569,398300,623
+2024-08,Mumbai,Handbags,578,462400,660
+2024-08,Mumbai,Beauty,552,193200,585
+2024-08,Mumbai,Kitchen,381,171450,484
+2024-08,Mumbai,Home Decor,426,276900,447
+2024-08,Mumbai,Mobile Accessories,380,114000,414
+2024-08,Mumbai,Toys,634,253600,714
+2024-08,Mumbai,Electronics,664,996000,722
+2024-08,Delhi,Kurti,448,246400,559
+2024-08,Delhi,Saree,244,219600,256
+2024-08,Delhi,Footwear,478,334600,636
+2024-08,Delhi,Handbags,440,352000,541
+2024-08,Delhi,Beauty,743,260050,967
+2024-08,Delhi,Kitchen,628,282600,701
+2024-08,Delhi,Home Decor,646,419900,728
+2024-08,Delhi,Mobile Accessories,601,180300,634
+2024-08,Delhi,Toys,373,149200,414
+2024-08,Delhi,Electronics,689,1033500,728
+2024-08,Kolkata,Kurti,585,321750,754
+2024-08,Kolkata,Saree,738,664200,853
+2024-08,Kolkata,Footwear,600,420000,653
+2024-08,Kolkata,Handbags,535,428000,664
+2024-08,Kolkata,Beauty,553,193550,671
+2024-08,Kolkata,Kitchen,307,138150,397
+2024-08,Kolkata,Home Decor,573,372450,694
+2024-08,Kolkata,Mobile Accessories,500,150000,643
+2024-08,Kolkata,Toys,801,320400,1048
+2024-08,Kolkata,Electronics,690,1035000,858
+2024-09,Vijayawada,Kurti,394,216700,465
+2024-09,Vijayawada,Saree,481,432900,625
+2024-09,Vijayawada,Footwear,269,188300,295
+2024-09,Vijayawada,Handbags,443,354400,516
+2024-09,Vijayawada,Beauty,564,197400,713
+2024-09,Vijayawada,Kitchen,191,85950,240
+2024-09,Vijayawada,Home Decor,343,222950,449
+2024-09,Vijayawada,Mobile Accessories,206,61800,258
+2024-09,Vijayawada,Toys,320,128000,397
+2024-09,Vijayawada,Electronics,532,798000,715
+2024-09,Hyderabad,Kurti,322,177100,432
+2024-09,Hyderabad,Saree,306,275400,393
+2024-09,Hyderabad,Footwear,266,186200,333
+2024-09,Hyderabad,Handbags,459,367200,573
+2024-09,Hyderabad,Beauty,495,173250,643
+2024-09,Hyderabad,Kitchen,492,221400,627
+2024-09,Hyderabad,Home Decor,605,393250,661
+2024-09,Hyderabad,Mobile Accessories,332,99600,389
+2024-09,Hyderabad,Toys,570,228000,674
+2024-09,Hyderabad,Electronics,244,366000,320
+2024-09,Bengaluru,Kurti,445,244750,492
+2024-09,Bengaluru,Saree,230,207000,286
+2024-09,Bengaluru,Footwear,530,371000,689
+2024-09,Bengaluru,Handbags,210,168000,268
+2024-09,Bengaluru,Beauty,459,160650,569
+2024-09,Bengaluru,Kitchen,410,184500,502
+2024-09,Bengaluru,Home Decor,595,386750,715
+2024-09,Bengaluru,Mobile Accessories,278,83400,363
+2024-09,Bengaluru,Toys,357,142800,411
+2024-09,Bengaluru,Electronics,408,612000,434
+2024-09,Chennai,Kurti,374,205700,417
+2024-09,Chennai,Saree,242,217800,283
+2024-09,Chennai,Footwear,516,361200,678
+2024-09,Chennai,Handbags,408,326400,492
+2024-09,Chennai,Beauty,494,172900,621
+2024-09,Chennai,Kitchen,226,101700,280
+2024-09,Chennai,Home Decor,238,154700,316
+2024-09,Chennai,Mobile Accessories,353,105900,420
+2024-09,Chennai,Toys,496,198400,521
+2024-09,Chennai,Electronics,298,447000,321
+2024-09,Kochi,Kurti,505,277750,573
+2024-09,Kochi,Saree,636,572400,678
+2024-09,Kochi,Footwear,222,155400,278
+2024-09,Kochi,Handbags,559,447200,740
+2024-09,Kochi,Beauty,222,77700,272
+2024-09,Kochi,Kitchen,591,265950,766
+2024-09,Kochi,Home Decor,215,139750,249
+2024-09,Kochi,Mobile Accessories,471,141300,617
+2024-09,Kochi,Toys,214,85600,271
+2024-09,Kochi,Electronics,576,864000,619
+2024-09,Visakhapatnam,Kurti,429,235950,573
+2024-09,Visakhapatnam,Saree,446,401400,532
+2024-09,Visakhapatnam,Footwear,348,243600,445
+2024-09,Visakhapatnam,Handbags,342,273600,433
+2024-09,Visakhapatnam,Beauty,565,197750,644
+2024-09,Visakhapatnam,Kitchen,453,203850,523
+2024-09,Visakhapatnam,Home Decor,281,182650,312
+2024-09,Visakhapatnam,Mobile Accessories,684,205200,719
+2024-09,Visakhapatnam,Toys,711,284400,929
+2024-09,Visakhapatnam,Electronics,274,411000,310
+2024-09,Pune,Kurti,548,301400,579
+2024-09,Pune,Saree,523,470700,556
+2024-09,Pune,Footwear,708,495600,921
+2024-09,Pune,Handbags,423,338400,492
+2024-09,Pune,Beauty,281,98350,373
+2024-09,Pune,Kitchen,609,274050,809
+2024-09,Pune,Home Decor,541,351650,713
+2024-09,Pune,Mobile Accessories,230,69000,244
+2024-09,Pune,Toys,449,179600,575
+2024-09,Pune,Electronics,294,441000,318
+2024-09,Mumbai,Kurti,324,178200,358
+2024-09,Mumbai,Saree,400,360000,451
+2024-09,Mumbai,Footwear,721,504700,887
+2024-09,Mumbai,Handbags,283,226400,329
+2024-09,Mumbai,Beauty,610,213500,715
+2024-09,Mumbai,Kitchen,278,125100,353
+2024-09,Mumbai,Home Decor,568,369200,599
+2024-09,Mumbai,Mobile Accessories,281,84300,340
+2024-09,Mumbai,Toys,458,183200,575
+2024-09,Mumbai,Electronics,336,504000,435
+2024-09,Delhi,Kurti,553,304150,628
+2024-09,Delhi,Saree,800,720000,1043
+2024-09,Delhi,Footwear,656,459200,849
+2024-09,Delhi,Handbags,352,281600,446
+2024-09,Delhi,Beauty,649,227150,764
+2024-09,Delhi,Kitchen,513,230850,596
+2024-09,Delhi,Home Decor,535,347750,610
+2024-09,Delhi,Mobile Accessories,626,187800,831
+2024-09,Delhi,Toys,712,284800,863
+2024-09,Delhi,Electronics,477,715500,622
+2024-09,Kolkata,Kurti,284,156200,334
+2024-09,Kolkata,Saree,316,284400,388
+2024-09,Kolkata,Footwear,282,197400,364
+2024-09,Kolkata,Handbags,724,579200,881
+2024-09,Kolkata,Beauty,316,110600,366
+2024-09,Kolkata,Kitchen,704,316800,782
+2024-09,Kolkata,Home Decor,834,542100,878
+2024-09,Kolkata,Mobile Accessories,494,148200,589
+2024-09,Kolkata,Toys,477,190800,625
+2024-09,Kolkata,Electronics,403,604500,473
+2024-10,Vijayawada,Kurti,561,308550,604
+2024-10,Vijayawada,Saree,499,449100,530
+2024-10,Vijayawada,Footwear,588,411600,710
+2024-10,Vijayawada,Handbags,246,196800,264
+2024-10,Vijayawada,Beauty,503,176050,617
+2024-10,Vijayawada,Kitchen,588,264600,778
+2024-10,Vijayawada,Home Decor,464,301600,510
+2024-10,Vijayawada,Mobile Accessories,206,61800,233
+2024-10,Vijayawada,Toys,488,195200,636
+2024-10,Vijayawada,Electronics,388,582000,478
+2024-10,Hyderabad,Kurti,458,251900,574
+2024-10,Hyderabad,Saree,567,510300,696
+2024-10,Hyderabad,Footwear,333,233100,443
+2024-10,Hyderabad,Handbags,498,398400,547
+2024-10,Hyderabad,Beauty,373,130550,443
+2024-10,Hyderabad,Kitchen,294,132300,328
+2024-10,Hyderabad,Home Decor,565,367250,751
+2024-10,Hyderabad,Mobile Accessories,490,147000,613
+2024-10,Hyderabad,Toys,341,136400,457
+2024-10,Hyderabad,Electronics,292,438000,336
+2024-10,Bengaluru,Kurti,637,350350,676
+2024-10,Bengaluru,Saree,501,450900,578
+2024-10,Bengaluru,Footwear,658,460600,775
+2024-10,Bengaluru,Handbags,341,272800,391
+2024-10,Bengaluru,Beauty,613,214550,785
+2024-10,Bengaluru,Kitchen,534,240300,649
+2024-10,Bengaluru,Home Decor,494,321100,647
+2024-10,Bengaluru,Mobile Accessories,270,81000,317
+2024-10,Bengaluru,Toys,558,223200,668
+2024-10,Bengaluru,Electronics,500,750000,562
+2024-10,Chennai,Kurti,674,370700,711
+2024-10,Chennai,Saree,725,652500,804
+2024-10,Chennai,Footwear,252,176400,288
+2024-10,Chennai,Handbags,296,236800,325
+2024-10,Chennai,Beauty,352,123200,459
+2024-10,Chennai,Kitchen,578,260100,726
+2024-10,Chennai,Home Decor,310,201500,395
+2024-10,Chennai,Mobile Accessories,699,209700,827
+2024-10,Chennai,Toys,419,167600,517
+2024-10,Chennai,Electronics,747,1120500,856
+2024-10,Kochi,Kurti,444,244200,504
+2024-10,Kochi,Saree,451,405900,546
+2024-10,Kochi,Footwear,556,389200,718
+2024-10,Kochi,Handbags,364,291200,427
+2024-10,Kochi,Beauty,573,200550,611
+2024-10,Kochi,Kitchen,594,267300,798
+2024-10,Kochi,Home Decor,714,464100,890
+2024-10,Kochi,Mobile Accessories,397,119100,458
+2024-10,Kochi,Toys,451,180400,541
+2024-10,Kochi,Electronics,477,715500,512
+2024-10,Visakhapatnam,Kurti,464,255200,532
+2024-10,Visakhapatnam,Saree,339,305100,436
+2024-10,Visakhapatnam,Footwear,407,284900,440
+2024-10,Visakhapatnam,Handbags,552,441600,643
+2024-10,Visakhapatnam,Beauty,797,278950,1006
+2024-10,Visakhapatnam,Kitchen,634,285300,733
+2024-10,Visakhapatnam,Home Decor,602,391300,714
+2024-10,Visakhapatnam,Mobile Accessories,307,92100,360
+2024-10,Visakhapatnam,Toys,820,328000,877
+2024-10,Visakhapatnam,Electronics,393,589500,465
+2024-10,Pune,Kurti,351,193050,421
+2024-10,Pune,Saree,276,248400,351
+2024-10,Pune,Footwear,469,328300,536
+2024-10,Pune,Handbags,303,242400,348
+2024-10,Pune,Beauty,836,292600,952
+2024-10,Pune,Kitchen,453,203850,554
+2024-10,Pune,Home Decor,751,488150,915
+2024-10,Pune,Mobile Accessories,815,244500,1082
+2024-10,Pune,Toys,287,114800,322
+2024-10,Pune,Electronics,437,655500,536
+2024-10,Mumbai,Kurti,899,494450,1145
+2024-10,Mumbai,Saree,505,454500,569
+2024-10,Mumbai,Footwear,494,345800,620
+2024-10,Mumbai,Handbags,853,682400,1040
+2024-10,Mumbai,Beauty,450,157500,580
+2024-10,Mumbai,Kitchen,611,274950,741
+2024-10,Mumbai,Home Decor,708,460200,775
+2024-10,Mumbai,Mobile Accessories,316,94800,354
+2024-10,Mumbai,Toys,501,200400,607
+2024-10,Mumbai,Electronics,370,555000,400
+2024-10,Delhi,Kurti,834,458700,1012
+2024-10,Delhi,Saree,625,562500,798
+2024-10,Delhi,Footwear,421,294700,567
+2024-10,Delhi,Handbags,290,232000,366
+2024-10,Delhi,Beauty,917,320950,1070
+2024-10,Delhi,Kitchen,775,348750,967
+2024-10,Delhi,Home Decor,379,246350,486
+2024-10,Delhi,Mobile Accessories,615,184500,781
+2024-10,Delhi,Toys,815,326000,1099
+2024-10,Delhi,Electronics,442,663000,464
+2024-10,Kolkata,Kurti,968,532400,1191
+2024-10,Kolkata,Saree,576,518400,666
+2024-10,Kolkata,Footwear,464,324800,554
+2024-10,Kolkata,Handbags,393,314400,466
+2024-10,Kolkata,Beauty,367,128450,431
+2024-10,Kolkata,Kitchen,450,202500,538
+2024-10,Kolkata,Home Decor,566,367900,640
+2024-10,Kolkata,Mobile Accessories,828,248400,993
+2024-10,Kolkata,Toys,712,284800,809
+2024-10,Kolkata,Electronics,303,454500,399
+2024-11,Vijayawada,Kurti,523,287650,620
+2024-11,Vijayawada,Saree,471,423900,569
+2024-11,Vijayawada,Footwear,611,427700,700
+2024-11,Vijayawada,Handbags,543,434400,582
+2024-11,Vijayawada,Beauty,234,81900,294
+2024-11,Vijayawada,Kitchen,467,210150,510
+2024-11,Vijayawada,Home Decor,342,222300,429
+2024-11,Vijayawada,Mobile Accessories,568,170400,737
+2024-11,Vijayawada,Toys,651,260400,715
+2024-11,Vijayawada,Electronics,572,858000,693
+2024-11,Hyderabad,Kurti,491,270050,592
+2024-11,Hyderabad,Saree,682,613800,719
+2024-11,Hyderabad,Footwear,399,279300,438
+2024-11,Hyderabad,Handbags,465,372000,491
+2024-11,Hyderabad,Beauty,720,252000,773
+2024-11,Hyderabad,Kitchen,565,254250,635
+2024-11,Hyderabad,Home Decor,472,306800,563
+2024-11,Hyderabad,Mobile Accessories,249,74700,318
+2024-11,Hyderabad,Toys,696,278400,773
+2024-11,Hyderabad,Electronics,244,366000,306
+2024-11,Bengaluru,Kurti,584,321200,777
+2024-11,Bengaluru,Saree,555,499500,645
+2024-11,Bengaluru,Footwear,235,164500,269
+2024-11,Bengaluru,Handbags,725,580000,843
+2024-11,Bengaluru,Beauty,270,94500,334
+2024-11,Bengaluru,Kitchen,341,153450,418
+2024-11,Bengaluru,Home Decor,230,149500,262
+2024-11,Bengaluru,Mobile Accessories,514,154200,591
+2024-11,Bengaluru,Toys,396,158400,503
+2024-11,Bengaluru,Electronics,640,960000,755
+2024-11,Chennai,Kurti,449,246950,537
+2024-11,Chennai,Saree,511,459900,561
+2024-11,Chennai,Footwear,436,305200,532
+2024-11,Chennai,Handbags,401,320800,423
+2024-11,Chennai,Beauty,601,210350,720
+2024-11,Chennai,Kitchen,572,257400,639
+2024-11,Chennai,Home Decor,683,443950,896
+2024-11,Chennai,Mobile Accessories,752,225600,800
+2024-11,Chennai,Toys,793,317200,980
+2024-11,Chennai,Electronics,499,748500,642
+2024-11,Kochi,Kurti,347,190850,402
+2024-11,Kochi,Saree,745,670500,999
+2024-11,Kochi,Footwear,733,513100,890
+2024-11,Kochi,Handbags,778,622400,1020
+2024-11,Kochi,Beauty,597,208950,652
+2024-11,Kochi,Kitchen,818,368100,1022
+2024-11,Kochi,Home Decor,688,447200,857
+2024-11,Kochi,Mobile Accessories,587,176100,755
+2024-11,Kochi,Toys,367,146800,406
+2024-11,Kochi,Electronics,501,751500,675
+2024-11,Visakhapatnam,Kurti,843,463650,1011
+2024-11,Visakhapatnam,Saree,334,300600,441
+2024-11,Visakhapatnam,Footwear,577,403900,749
+2024-11,Visakhapatnam,Handbags,548,438400,615
+2024-11,Visakhapatnam,Beauty,533,186550,693
+2024-11,Visakhapatnam,Kitchen,270,121500,349
+2024-11,Visakhapatnam,Home Decor,676,439400,862
+2024-11,Visakhapatnam,Mobile Accessories,507,152100,551
+2024-11,Visakhapatnam,Toys,588,235200,707
+2024-11,Visakhapatnam,Electronics,800,1200000,944
+2024-11,Pune,Kurti,681,374550,834
+2024-11,Pune,Saree,857,771300,960
+2024-11,Pune,Footwear,593,415100,733
+2024-11,Pune,Handbags,340,272000,391
+2024-11,Pune,Beauty,852,298200,1018
+2024-11,Pune,Kitchen,660,297000,882
+2024-11,Pune,Home Decor,635,412750,775
+2024-11,Pune,Mobile Accessories,581,174300,765
+2024-11,Pune,Toys,346,138400,454
+2024-11,Pune,Electronics,665,997500,868
+2024-11,Mumbai,Kurti,687,377850,818
+2024-11,Mumbai,Saree,538,484200,612
+2024-11,Mumbai,Footwear,476,333200,500
+2024-11,Mumbai,Handbags,892,713600,1129
+2024-11,Mumbai,Beauty,454,158900,557
+2024-11,Mumbai,Kitchen,448,201600,473
+2024-11,Mumbai,Home Decor,566,367900,737
+2024-11,Mumbai,Mobile Accessories,871,261300,1041
+2024-11,Mumbai,Toys,326,130400,385
+2024-11,Mumbai,Electronics,460,690000,557
+2024-11,Delhi,Kurti,463,254650,609
+2024-11,Delhi,Saree,786,707400,928
+2024-11,Delhi,Footwear,585,409500,615
+2024-11,Delhi,Handbags,687,549600,722
+2024-11,Delhi,Beauty,631,220850,750
+2024-11,Delhi,Kitchen,349,157050,428
+2024-11,Delhi,Home Decor,618,401700,747
+2024-11,Delhi,Mobile Accessories,307,92100,339
+2024-11,Delhi,Toys,548,219200,641
+2024-11,Delhi,Electronics,332,498000,351
+2024-11,Kolkata,Kurti,612,336600,767
+2024-11,Kolkata,Saree,812,730800,889
+2024-11,Kolkata,Footwear,320,224000,420
+2024-11,Kolkata,Handbags,778,622400,850
+2024-11,Kolkata,Beauty,376,131600,450
+2024-11,Kolkata,Kitchen,444,199800,482
+2024-11,Kolkata,Home Decor,644,418600,731
+2024-11,Kolkata,Mobile Accessories,566,169800,624
+2024-11,Kolkata,Toys,664,265600,716
+2024-11,Kolkata,Electronics,354,531000,445
+2024-12,Vijayawada,Kurti,422,232100,551
+2024-12,Vijayawada,Saree,401,360900,515
+2024-12,Vijayawada,Footwear,252,176400,299
+2024-12,Vijayawada,Handbags,691,552800,916
+2024-12,Vijayawada,Beauty,398,139300,460
+2024-12,Vijayawada,Kitchen,301,135450,392
+2024-12,Vijayawada,Home Decor,479,311350,569
+2024-12,Vijayawada,Mobile Accessories,542,162600,691
+2024-12,Vijayawada,Toys,394,157600,425
+2024-12,Vijayawada,Electronics,258,387000,348
+2024-12,Hyderabad,Kurti,411,226050,465
+2024-12,Hyderabad,Saree,487,438300,634
+2024-12,Hyderabad,Footwear,668,467600,874
+2024-12,Hyderabad,Handbags,244,195200,327
+2024-12,Hyderabad,Beauty,710,248500,807
+2024-12,Hyderabad,Kitchen,686,308700,845
+2024-12,Hyderabad,Home Decor,596,387400,744
+2024-12,Hyderabad,Mobile Accessories,422,126600,566
+2024-12,Hyderabad,Toys,418,167200,513
+2024-12,Hyderabad,Electronics,443,664500,512
+2024-12,Bengaluru,Kurti,618,339900,671
+2024-12,Bengaluru,Saree,515,463500,647
+2024-12,Bengaluru,Footwear,495,346500,635
+2024-12,Bengaluru,Handbags,341,272800,451
+2024-12,Bengaluru,Beauty,375,131250,466
+2024-12,Bengaluru,Kitchen,728,327600,878
+2024-12,Bengaluru,Home Decor,297,193050,316
+2024-12,Bengaluru,Mobile Accessories,248,74400,282
+2024-12,Bengaluru,Toys,533,213200,678
+2024-12,Bengaluru,Electronics,725,1087500,952
+2024-12,Chennai,Kurti,629,345950,840
+2024-12,Chennai,Saree,317,285300,335
+2024-12,Chennai,Footwear,482,337400,616
+2024-12,Chennai,Handbags,666,532800,759
+2024-12,Chennai,Beauty,693,242550,731
+2024-12,Chennai,Kitchen,484,217800,563
+2024-12,Chennai,Home Decor,567,368550,660
+2024-12,Chennai,Mobile Accessories,514,154200,659
+2024-12,Chennai,Toys,779,311600,1013
+2024-12,Chennai,Electronics,484,726000,648
+2024-12,Kochi,Kurti,617,339350,714
+2024-12,Kochi,Saree,671,603900,824
+2024-12,Kochi,Footwear,673,471100,721
+2024-12,Kochi,Handbags,553,442400,627
+2024-12,Kochi,Beauty,335,117250,386
+2024-12,Kochi,Kitchen,500,225000,648
+2024-12,Kochi,Home Decor,604,392600,797
+2024-12,Kochi,Mobile Accessories,500,150000,580
+2024-12,Kochi,Toys,269,107600,357
+2024-12,Kochi,Electronics,634,951000,807
+2024-12,Visakhapatnam,Kurti,524,288200,607
+2024-12,Visakhapatnam,Saree,754,678600,863
+2024-12,Visakhapatnam,Footwear,429,300300,521
+2024-12,Visakhapatnam,Handbags,526,420800,695
+2024-12,Visakhapatnam,Beauty,589,206150,698
+2024-12,Visakhapatnam,Kitchen,366,164700,452
+2024-12,Visakhapatnam,Home Decor,305,198250,349
+2024-12,Visakhapatnam,Mobile Accessories,620,186000,675
+2024-12,Visakhapatnam,Toys,462,184800,602
+2024-12,Visakhapatnam,Electronics,675,1012500,778
+2024-12,Pune,Kurti,315,173250,348
+2024-12,Pune,Saree,731,657900,930
+2024-12,Pune,Footwear,304,212800,383
+2024-12,Pune,Handbags,297,237600,377
+2024-12,Pune,Beauty,384,134400,450
+2024-12,Pune,Kitchen,643,289350,779
+2024-12,Pune,Home Decor,370,240500,408
+2024-12,Pune,Mobile Accessories,846,253800,939
+2024-12,Pune,Toys,663,265200,881
+2024-12,Pune,Electronics,625,937500,724
+2024-12,Mumbai,Kurti,689,378950,861
+2024-12,Mumbai,Saree,340,306000,426
+2024-12,Mumbai,Footwear,850,595000,1093
+2024-12,Mumbai,Handbags,905,724000,1076
+2024-12,Mumbai,Beauty,825,288750,874
+2024-12,Mumbai,Kitchen,456,205200,573
+2024-12,Mumbai,Home Decor,479,311350,550
+2024-12,Mumbai,Mobile Accessories,770,231000,985
+2024-12,Mumbai,Toys,500,200000,587
+2024-12,Mumbai,Electronics,679,1018500,791
+2024-12,Delhi,Kurti,400,220000,487
+2024-12,Delhi,Saree,713,641700,767
+2024-12,Delhi,Footwear,526,368200,580
+2024-12,Delhi,Handbags,862,689600,985
+2024-12,Delhi,Beauty,445,155750,476
+2024-12,Delhi,Kitchen,324,145800,430
+2024-12,Delhi,Home Decor,791,514150,903
+2024-12,Delhi,Mobile Accessories,754,226200,991
+2024-12,Delhi,Toys,872,348800,1035
+2024-12,Delhi,Electronics,905,1357500,1038
+2024-12,Kolkata,Kurti,956,525800,1204
+2024-12,Kolkata,Saree,750,675000,930
+2024-12,Kolkata,Footwear,650,455000,721
+2024-12,Kolkata,Handbags,441,352800,502
+2024-12,Kolkata,Beauty,937,327950,1086
+2024-12,Kolkata,Kitchen,850,382500,898
+2024-12,Kolkata,Home Decor,728,473200,787
+2024-12,Kolkata,Mobile Accessories,614,184200,664
+2024-12,Kolkata,Toys,797,318800,917
+2024-12,Kolkata,Electronics,400,600000,536
+2025-01,Vijayawada,Kurti,281,154550,328
+2025-01,Vijayawada,Saree,524,471600,639
+2025-01,Vijayawada,Footwear,240,168000,298
+2025-01,Vijayawada,Handbags,564,451200,754
+2025-01,Vijayawada,Beauty,442,154700,576
+2025-01,Vijayawada,Kitchen,313,140850,354
+2025-01,Vijayawada,Home Decor,277,180050,344
+2025-01,Vijayawada,Mobile Accessories,479,143700,633
+2025-01,Vijayawada,Toys,303,121200,349
+2025-01,Vijayawada,Electronics,466,699000,608
+2025-01,Hyderabad,Kurti,641,352550,786
+2025-01,Hyderabad,Saree,243,218700,292
+2025-01,Hyderabad,Footwear,398,278600,511
+2025-01,Hyderabad,Handbags,242,193600,321
+2025-01,Hyderabad,Beauty,576,201600,670
+2025-01,Hyderabad,Kitchen,387,174150,451
+2025-01,Hyderabad,Home Decor,494,321100,618
+2025-01,Hyderabad,Mobile Accessories,230,69000,251
+2025-01,Hyderabad,Toys,464,185600,543
+2025-01,Hyderabad,Electronics,561,841500,689
+2025-01,Bengaluru,Kurti,298,163900,324
+2025-01,Bengaluru,Saree,244,219600,283
+2025-01,Bengaluru,Footwear,459,321300,502
+2025-01,Bengaluru,Handbags,324,259200,432
+2025-01,Bengaluru,Beauty,662,231700,774
+2025-01,Bengaluru,Kitchen,407,183150,521
+2025-01,Bengaluru,Home Decor,313,203450,380
+2025-01,Bengaluru,Mobile Accessories,556,166800,665
+2025-01,Bengaluru,Toys,630,252000,838
+2025-01,Bengaluru,Electronics,388,582000,462
+2025-01,Chennai,Kurti,365,200750,471
+2025-01,Chennai,Saree,410,369000,526
+2025-01,Chennai,Footwear,527,368900,610
+2025-01,Chennai,Handbags,392,313600,415
+2025-01,Chennai,Beauty,330,115500,445
+2025-01,Chennai,Kitchen,285,128250,315
+2025-01,Chennai,Home Decor,711,462150,928
+2025-01,Chennai,Mobile Accessories,694,208200,915
+2025-01,Chennai,Toys,540,216000,718
+2025-01,Chennai,Electronics,329,493500,351
+2025-01,Kochi,Kurti,480,264000,567
+2025-01,Kochi,Saree,450,405000,541
+2025-01,Kochi,Footwear,687,480900,760
+2025-01,Kochi,Handbags,678,542400,806
+2025-01,Kochi,Beauty,598,209300,665
+2025-01,Kochi,Kitchen,471,211950,519
+2025-01,Kochi,Home Decor,401,260650,530
+2025-01,Kochi,Mobile Accessories,291,87300,331
+2025-01,Kochi,Toys,299,119600,343
+2025-01,Kochi,Electronics,313,469500,369
+2025-01,Visakhapatnam,Kurti,502,276100,589
+2025-01,Visakhapatnam,Saree,334,300600,369
+2025-01,Visakhapatnam,Footwear,604,422800,747
+2025-01,Visakhapatnam,Handbags,615,492000,760
+2025-01,Visakhapatnam,Beauty,472,165200,513
+2025-01,Visakhapatnam,Kitchen,308,138600,383
+2025-01,Visakhapatnam,Home Decor,525,341250,688
+2025-01,Visakhapatnam,Mobile Accessories,392,117600,462
+2025-01,Visakhapatnam,Toys,640,256000,686
+2025-01,Visakhapatnam,Electronics,291,436500,346
+2025-01,Pune,Kurti,630,346500,809
+2025-01,Pune,Saree,370,333000,434
+2025-01,Pune,Footwear,407,284900,527
+2025-01,Pune,Handbags,438,350400,495
+2025-01,Pune,Beauty,475,166250,618
+2025-01,Pune,Kitchen,544,244800,709
+2025-01,Pune,Home Decor,789,512850,934
+2025-01,Pune,Mobile Accessories,754,226200,912
+2025-01,Pune,Toys,697,278800,812
+2025-01,Pune,Electronics,599,898500,662
+2025-01,Mumbai,Kurti,505,277750,656
+2025-01,Mumbai,Saree,421,378900,444
+2025-01,Mumbai,Footwear,746,522200,875
+2025-01,Mumbai,Handbags,314,251200,385
+2025-01,Mumbai,Beauty,366,128100,439
+2025-01,Mumbai,Kitchen,808,363600,991
+2025-01,Mumbai,Home Decor,369,239850,422
+2025-01,Mumbai,Mobile Accessories,569,170700,727
+2025-01,Mumbai,Toys,626,250400,819
+2025-01,Mumbai,Electronics,443,664500,537
+2025-01,Delhi,Kurti,487,267850,594
+2025-01,Delhi,Saree,774,696600,1002
+2025-01,Delhi,Footwear,683,478100,790
+2025-01,Delhi,Handbags,836,668800,967
+2025-01,Delhi,Beauty,357,124950,449
+2025-01,Delhi,Kitchen,267,120150,358
+2025-01,Delhi,Home Decor,368,239200,458
+2025-01,Delhi,Mobile Accessories,751,225300,805
+2025-01,Delhi,Toys,501,200400,573
+2025-01,Delhi,Electronics,630,945000,846
+2025-01,Kolkata,Kurti,492,270600,531
+2025-01,Kolkata,Saree,798,718200,858
+2025-01,Kolkata,Footwear,418,292600,531
+2025-01,Kolkata,Handbags,712,569600,933
+2025-01,Kolkata,Beauty,720,252000,771
+2025-01,Kolkata,Kitchen,747,336150,938
+2025-01,Kolkata,Home Decor,738,479700,860
+2025-01,Kolkata,Mobile Accessories,661,198300,777
+2025-01,Kolkata,Toys,677,270800,812
+2025-01,Kolkata,Electronics,749,1123500,939
+2025-02,Vijayawada,Kurti,294,161700,322
+2025-02,Vijayawada,Saree,502,451800,543
+2025-02,Vijayawada,Footwear,607,424900,770
+2025-02,Vijayawada,Handbags,263,210400,277
+2025-02,Vijayawada,Beauty,380,133000,411
+2025-02,Vijayawada,Kitchen,238,107100,258
+2025-02,Vijayawada,Home Decor,241,156650,310
+2025-02,Vijayawada,Mobile Accessories,287,86100,344
+2025-02,Vijayawada,Toys,510,204000,575
+2025-02,Vijayawada,Electronics,459,688500,550
+2025-02,Hyderabad,Kurti,464,255200,503
+2025-02,Hyderabad,Saree,449,404100,584
+2025-02,Hyderabad,Footwear,371,259700,452
+2025-02,Hyderabad,Handbags,529,423200,576
+2025-02,Hyderabad,Beauty,265,92750,332
+2025-02,Hyderabad,Kitchen,205,92250,238
+2025-02,Hyderabad,Home Decor,230,149500,269
+2025-02,Hyderabad,Mobile Accessories,288,86400,345
+2025-02,Hyderabad,Toys,288,115200,343
+2025-02,Hyderabad,Electronics,394,591000,484
+2025-02,Bengaluru,Kurti,270,148500,321
+2025-02,Bengaluru,Saree,224,201600,239
+2025-02,Bengaluru,Footwear,474,331800,602
+2025-02,Bengaluru,Handbags,252,201600,272
+2025-02,Bengaluru,Beauty,591,206850,648
+2025-02,Bengaluru,Kitchen,436,196200,517
+2025-02,Bengaluru,Home Decor,655,425750,702
+2025-02,Bengaluru,Mobile Accessories,250,75000,291
+2025-02,Bengaluru,Toys,415,166000,483
+2025-02,Bengaluru,Electronics,482,723000,622
+2025-02,Chennai,Kurti,394,216700,523
+2025-02,Chennai,Saree,462,415800,620
+2025-02,Chennai,Footwear,695,486500,829
+2025-02,Chennai,Handbags,698,558400,931
+2025-02,Chennai,Beauty,311,108850,382
+2025-02,Chennai,Kitchen,633,284850,710
+2025-02,Chennai,Home Decor,346,224900,411
+2025-02,Chennai,Mobile Accessories,552,165600,656
+2025-02,Chennai,Toys,537,214800,628
+2025-02,Chennai,Electronics,595,892500,739
+2025-02,Kochi,Kurti,660,363000,726
+2025-02,Kochi,Saree,736,662400,902
+2025-02,Kochi,Footwear,255,178500,268
+2025-02,Kochi,Handbags,518,414400,607
+2025-02,Kochi,Beauty,240,84000,273
+2025-02,Kochi,Kitchen,518,233100,589
+2025-02,Kochi,Home Decor,625,406250,817
+2025-02,Kochi,Mobile Accessories,358,107400,481
+2025-02,Kochi,Toys,294,117600,396
+2025-02,Kochi,Electronics,399,598500,467
+2025-02,Visakhapatnam,Kurti,406,223300,446
+2025-02,Visakhapatnam,Saree,478,430200,503
+2025-02,Visakhapatnam,Footwear,743,520100,911
+2025-02,Visakhapatnam,Handbags,485,388000,626
+2025-02,Visakhapatnam,Beauty,379,132650,470
+2025-02,Visakhapatnam,Kitchen,351,157950,469
+2025-02,Visakhapatnam,Home Decor,396,257400,534
+2025-02,Visakhapatnam,Mobile Accessories,395,118500,457
+2025-02,Visakhapatnam,Toys,787,314800,921
+2025-02,Visakhapatnam,Electronics,477,715500,556
+2025-02,Pune,Kurti,271,149050,311
+2025-02,Pune,Saree,658,592200,881
+2025-02,Pune,Footwear,619,433300,823
+2025-02,Pune,Handbags,592,473600,754
+2025-02,Pune,Beauty,286,100100,323
+2025-02,Pune,Kitchen,391,175950,522
+2025-02,Pune,Home Decor,728,473200,850
+2025-02,Pune,Mobile Accessories,422,126600,459
+2025-02,Pune,Toys,630,252000,672
+2025-02,Pune,Electronics,571,856500,658
+2025-02,Mumbai,Kurti,792,435600,915
+2025-02,Mumbai,Saree,804,723600,981
+2025-02,Mumbai,Footwear,382,267400,501
+2025-02,Mumbai,Handbags,529,423200,710
+2025-02,Mumbai,Beauty,457,159950,496
+2025-02,Mumbai,Kitchen,285,128250,366
+2025-02,Mumbai,Home Decor,813,528450,872
+2025-02,Mumbai,Mobile Accessories,762,228600,890
+2025-02,Mumbai,Toys,673,269200,822
+2025-02,Mumbai,Electronics,321,481500,373
+2025-02,Delhi,Kurti,428,235400,548
+2025-02,Delhi,Saree,721,648900,773
+2025-02,Delhi,Footwear,421,294700,541
+2025-02,Delhi,Handbags,580,464000,699
+2025-02,Delhi,Beauty,534,186900,627
+2025-02,Delhi,Kitchen,703,316350,851
+2025-02,Delhi,Home Decor,448,291200,552
+2025-02,Delhi,Mobile Accessories,363,108900,463
+2025-02,Delhi,Toys,813,325200,912
+2025-02,Delhi,Electronics,433,649500,464
+2025-02,Kolkata,Kurti,507,278850,619
+2025-02,Kolkata,Saree,310,279000,363
+2025-02,Kolkata,Footwear,858,600600,955
+2025-02,Kolkata,Handbags,617,493600,811
+2025-02,Kolkata,Beauty,760,266000,960
+2025-02,Kolkata,Kitchen,891,400950,988
+2025-02,Kolkata,Home Decor,855,555750,980
+2025-02,Kolkata,Mobile Accessories,588,176400,637
+2025-02,Kolkata,Toys,834,333600,946
+2025-02,Kolkata,Electronics,623,934500,834
+2025-03,Vijayawada,Kurti,248,136400,273
+2025-03,Vijayawada,Saree,591,531900,637
+2025-03,Vijayawada,Footwear,302,211400,327
+2025-03,Vijayawada,Handbags,584,467200,746
+2025-03,Vijayawada,Beauty,405,141750,497
+2025-03,Vijayawada,Kitchen,258,116100,277
+2025-03,Vijayawada,Home Decor,637,414050,858
+2025-03,Vijayawada,Mobile Accessories,478,143400,637
+2025-03,Vijayawada,Toys,624,249600,730
+2025-03,Vijayawada,Electronics,488,732000,529
+2025-03,Hyderabad,Kurti,431,237050,499
+2025-03,Hyderabad,Saree,341,306900,360
+2025-03,Hyderabad,Footwear,288,201600,372
+2025-03,Hyderabad,Handbags,422,337600,513
+2025-03,Hyderabad,Beauty,302,105700,334
+2025-03,Hyderabad,Kitchen,646,290700,734
+2025-03,Hyderabad,Home Decor,435,282750,465
+2025-03,Hyderabad,Mobile Accessories,344,103200,417
+2025-03,Hyderabad,Toys,409,163600,539
+2025-03,Hyderabad,Electronics,637,955500,750
+2025-03,Bengaluru,Kurti,681,374550,821
+2025-03,Bengaluru,Saree,225,202500,256
+2025-03,Bengaluru,Footwear,520,364000,648
+2025-03,Bengaluru,Handbags,274,219200,299
+2025-03,Bengaluru,Beauty,635,222250,729
+2025-03,Bengaluru,Kitchen,515,231750,558
+2025-03,Bengaluru,Home Decor,675,438750,811
+2025-03,Bengaluru,Mobile Accessories,297,89100,319
+2025-03,Bengaluru,Toys,540,216000,607
+2025-03,Bengaluru,Electronics,540,810000,647
+2025-03,Chennai,Kurti,699,384450,879
+2025-03,Chennai,Saree,710,639000,751
+2025-03,Chennai,Footwear,585,409500,705
+2025-03,Chennai,Handbags,510,408000,671
+2025-03,Chennai,Beauty,529,185150,628
+2025-03,Chennai,Kitchen,657,295650,785
+2025-03,Chennai,Home Decor,416,270400,508
+2025-03,Chennai,Mobile Accessories,231,69300,293
+2025-03,Chennai,Toys,674,269600,712
+2025-03,Chennai,Electronics,484,726000,581
+2025-03,Kochi,Kurti,436,239800,534
+2025-03,Kochi,Saree,591,531900,650
+2025-03,Kochi,Footwear,327,228900,432
+2025-03,Kochi,Handbags,605,484000,708
+2025-03,Kochi,Beauty,364,127400,443
+2025-03,Kochi,Kitchen,496,223200,630
+2025-03,Kochi,Home Decor,451,293150,487
+2025-03,Kochi,Mobile Accessories,743,222900,830
+2025-03,Kochi,Toys,357,142800,376
+2025-03,Kochi,Electronics,391,586500,442
+2025-03,Visakhapatnam,Kurti,489,268950,598
+2025-03,Visakhapatnam,Saree,761,684900,868
+2025-03,Visakhapatnam,Footwear,406,284200,467
+2025-03,Visakhapatnam,Handbags,401,320800,509
+2025-03,Visakhapatnam,Beauty,382,133700,419
+2025-03,Visakhapatnam,Kitchen,540,243000,604
+2025-03,Visakhapatnam,Home Decor,299,194350,390
+2025-03,Visakhapatnam,Mobile Accessories,768,230400,836
+2025-03,Visakhapatnam,Toys,315,126000,346
+2025-03,Visakhapatnam,Electronics,419,628500,518
+2025-03,Pune,Kurti,344,189200,437
+2025-03,Pune,Saree,688,619200,848
+2025-03,Pune,Footwear,802,561400,890
+2025-03,Pune,Handbags,738,590400,915
+2025-03,Pune,Beauty,780,273000,879
+2025-03,Pune,Kitchen,722,324900,787
+2025-03,Pune,Home Decor,357,232050,405
+2025-03,Pune,Mobile Accessories,640,192000,863
+2025-03,Pune,Toys,507,202800,579
+2025-03,Pune,Electronics,802,1203000,1040
+2025-03,Mumbai,Kurti,286,157300,373
+2025-03,Mumbai,Saree,703,632700,847
+2025-03,Mumbai,Footwear,399,279300,470
+2025-03,Mumbai,Handbags,343,274400,418
+2025-03,Mumbai,Beauty,445,155750,568
+2025-03,Mumbai,Kitchen,673,302850,798
+2025-03,Mumbai,Home Decor,827,537550,1040
+2025-03,Mumbai,Mobile Accessories,478,143400,536
+2025-03,Mumbai,Toys,698,279200,830
+2025-03,Mumbai,Electronics,749,1123500,832
+2025-03,Delhi,Kurti,456,250800,598
+2025-03,Delhi,Saree,879,791100,988
+2025-03,Delhi,Footwear,573,401100,738
+2025-03,Delhi,Handbags,637,509600,679
+2025-03,Delhi,Beauty,354,123900,384
+2025-03,Delhi,Kitchen,732,329400,789
+2025-03,Delhi,Home Decor,838,544700,1049
+2025-03,Delhi,Mobile Accessories,826,247800,979
+2025-03,Delhi,Toys,641,256400,838
+2025-03,Delhi,Electronics,775,1162500,925
+2025-03,Kolkata,Kurti,703,386650,825
+2025-03,Kolkata,Saree,705,634500,906
+2025-03,Kolkata,Footwear,723,506100,926
+2025-03,Kolkata,Handbags,766,612800,892
+2025-03,Kolkata,Beauty,315,110250,422
+2025-03,Kolkata,Kitchen,451,202950,593
+2025-03,Kolkata,Home Decor,645,419250,763
+2025-03,Kolkata,Mobile Accessories,697,209100,777
+2025-03,Kolkata,Toys,302,120800,330
+2025-03,Kolkata,Electronics,330,495000,382
+2025-04,Vijayawada,Kurti,490,269500,532
+2025-04,Vijayawada,Saree,540,486000,686
+2025-04,Vijayawada,Footwear,266,186200,296
+2025-04,Vijayawada,Handbags,293,234400,345
+2025-04,Vijayawada,Beauty,252,88200,281
+2025-04,Vijayawada,Kitchen,603,271350,655
+2025-04,Vijayawada,Home Decor,245,159250,262
+2025-04,Vijayawada,Mobile Accessories,648,194400,793
+2025-04,Vijayawada,Toys,553,221200,639
+2025-04,Vijayawada,Electronics,492,738000,554
+2025-04,Hyderabad,Kurti,469,257950,554
+2025-04,Hyderabad,Saree,324,291600,418
+2025-04,Hyderabad,Footwear,465,325500,605
+2025-04,Hyderabad,Handbags,318,254400,421
+2025-04,Hyderabad,Beauty,461,161350,524
+2025-04,Hyderabad,Kitchen,218,98100,232
+2025-04,Hyderabad,Home Decor,322,209300,396
+2025-04,Hyderabad,Mobile Accessories,585,175500,750
+2025-04,Hyderabad,Toys,500,200000,533
+2025-04,Hyderabad,Electronics,263,394500,333
+2025-04,Bengaluru,Kurti,255,140250,271
+2025-04,Bengaluru,Saree,704,633600,747
+2025-04,Bengaluru,Footwear,521,364700,593
+2025-04,Bengaluru,Handbags,649,519200,853
+2025-04,Bengaluru,Beauty,656,229600,830
+2025-04,Bengaluru,Kitchen,217,97650,291
+2025-04,Bengaluru,Home Decor,702,456300,792
+2025-04,Bengaluru,Mobile Accessories,692,207600,768
+2025-04,Bengaluru,Toys,225,90000,290
+2025-04,Bengaluru,Electronics,391,586500,521
+2025-04,Chennai,Kurti,747,410850,905
+2025-04,Chennai,Saree,626,563400,826
+2025-04,Chennai,Footwear,345,241500,409
+2025-04,Chennai,Handbags,264,211200,352
+2025-04,Chennai,Beauty,651,227850,822
+2025-04,Chennai,Kitchen,722,324900,970
+2025-04,Chennai,Home Decor,550,357500,740
+2025-04,Chennai,Mobile Accessories,257,77100,273
+2025-04,Chennai,Toys,557,222800,604
+2025-04,Chennai,Electronics,449,673500,597
+2025-04,Kochi,Kurti,351,193050,437
+2025-04,Kochi,Saree,266,239400,330
+2025-04,Kochi,Footwear,365,255500,454
+2025-04,Kochi,Handbags,753,602400,979
+2025-04,Kochi,Beauty,307,107450,363
+2025-04,Kochi,Kitchen,358,161100,416
+2025-04,Kochi,Home Decor,572,371800,729
+2025-04,Kochi,Mobile Accessories,302,90600,385
+2025-04,Kochi,Toys,770,308000,1018
+2025-04,Kochi,Electronics,747,1120500,883
+2025-04,Visakhapatnam,Kurti,381,209550,423
+2025-04,Visakhapatnam,Saree,750,675000,925
+2025-04,Visakhapatnam,Footwear,469,328300,508
+2025-04,Visakhapatnam,Handbags,482,385600,589
+2025-04,Visakhapatnam,Beauty,607,212450,769
+2025-04,Visakhapatnam,Kitchen,721,324450,879
+2025-04,Visakhapatnam,Home Decor,378,245700,465
+2025-04,Visakhapatnam,Mobile Accessories,677,203100,712
+2025-04,Visakhapatnam,Toys,747,298800,866
+2025-04,Visakhapatnam,Electronics,273,409500,307
+2025-04,Pune,Kurti,577,317350,632
+2025-04,Pune,Saree,451,405900,595
+2025-04,Pune,Footwear,527,368900,635
+2025-04,Pune,Handbags,738,590400,910
+2025-04,Pune,Beauty,344,120400,437
+2025-04,Pune,Kitchen,280,126000,342
+2025-04,Pune,Home Decor,398,258700,475
+2025-04,Pune,Mobile Accessories,583,174900,777
+2025-04,Pune,Toys,353,141200,390
+2025-04,Pune,Electronics,351,526500,406
+2025-04,Mumbai,Kurti,324,178200,375
+2025-04,Mumbai,Saree,433,389700,516
+2025-04,Mumbai,Footwear,419,293300,550
+2025-04,Mumbai,Handbags,477,381600,595
+2025-04,Mumbai,Beauty,314,109900,415
+2025-04,Mumbai,Kitchen,291,130950,378
+2025-04,Mumbai,Home Decor,777,505050,1032
+2025-04,Mumbai,Mobile Accessories,266,79800,326
+2025-04,Mumbai,Toys,875,350000,1080
+2025-04,Mumbai,Electronics,795,1192500,996
+2025-04,Delhi,Kurti,353,194150,443
+2025-04,Delhi,Saree,755,679500,892
+2025-04,Delhi,Footwear,407,284900,524
+2025-04,Delhi,Handbags,869,695200,1110
+2025-04,Delhi,Beauty,413,144550,471
+2025-04,Delhi,Kitchen,371,166950,439
+2025-04,Delhi,Home Decor,660,429000,811
+2025-04,Delhi,Mobile Accessories,555,166500,693
+2025-04,Delhi,Toys,582,232800,646
+2025-04,Delhi,Electronics,587,880500,741
+2025-04,Kolkata,Kurti,623,342650,825
+2025-04,Kolkata,Saree,640,576000,751
+2025-04,Kolkata,Footwear,326,228200,416
+2025-04,Kolkata,Handbags,569,455200,666
+2025-04,Kolkata,Beauty,491,171850,619
+2025-04,Kolkata,Kitchen,901,405450,1198
+2025-04,Kolkata,Home Decor,763,495950,905
+2025-04,Kolkata,Mobile Accessories,550,165000,736
+2025-04,Kolkata,Toys,754,301600,868
+2025-04,Kolkata,Electronics,599,898500,717
+2025-05,Vijayawada,Kurti,241,132550,291
+2025-05,Vijayawada,Saree,233,209700,303
+2025-05,Vijayawada,Footwear,518,362600,567
+2025-05,Vijayawada,Handbags,435,348000,548
+2025-05,Vijayawada,Beauty,613,214550,764
+2025-05,Vijayawada,Kitchen,347,156150,435
+2025-05,Vijayawada,Home Decor,336,218400,416
+2025-05,Vijayawada,Mobile Accessories,650,195000,743
+2025-05,Vijayawada,Toys,373,149200,467
+2025-05,Vijayawada,Electronics,306,459000,388
+2025-05,Hyderabad,Kurti,568,312400,605
+2025-05,Hyderabad,Saree,343,308700,416
+2025-05,Hyderabad,Footwear,388,271600,434
+2025-05,Hyderabad,Handbags,413,330400,541
+2025-05,Hyderabad,Beauty,268,93800,284
+2025-05,Hyderabad,Kitchen,501,225450,672
+2025-05,Hyderabad,Home Decor,687,446550,886
+2025-05,Hyderabad,Mobile Accessories,670,201000,712
+2025-05,Hyderabad,Toys,299,119600,381
+2025-05,Hyderabad,Electronics,342,513000,426
+2025-05,Bengaluru,Kurti,386,212300,490
+2025-05,Bengaluru,Saree,464,417600,496
+2025-05,Bengaluru,Footwear,660,462000,815
+2025-05,Bengaluru,Handbags,428,342400,452
+2025-05,Bengaluru,Beauty,612,214200,746
+2025-05,Bengaluru,Kitchen,255,114750,285
+2025-05,Bengaluru,Home Decor,547,355550,737
+2025-05,Bengaluru,Mobile Accessories,261,78300,336
+2025-05,Bengaluru,Toys,702,280800,750
+2025-05,Bengaluru,Electronics,657,985500,710
+2025-05,Chennai,Kurti,397,218350,484
+2025-05,Chennai,Saree,708,637200,926
+2025-05,Chennai,Footwear,592,414400,713
+2025-05,Chennai,Handbags,660,528000,731
+2025-05,Chennai,Beauty,511,178850,620
+2025-05,Chennai,Kitchen,555,249750,667
+2025-05,Chennai,Home Decor,443,287950,564
+2025-05,Chennai,Mobile Accessories,440,132000,542
+2025-05,Chennai,Toys,558,223200,608
+2025-05,Chennai,Electronics,707,1060500,894
+2025-05,Kochi,Kurti,722,397100,829
+2025-05,Kochi,Saree,269,242100,355
+2025-05,Kochi,Footwear,570,399000,679
+2025-05,Kochi,Handbags,647,517600,741
+2025-05,Kochi,Beauty,397,138950,484
+2025-05,Kochi,Kitchen,633,284850,776
+2025-05,Kochi,Home Decor,632,410800,841
+2025-05,Kochi,Mobile Accessories,746,223800,971
+2025-05,Kochi,Toys,281,112400,315
+2025-05,Kochi,Electronics,516,774000,679
+2025-05,Visakhapatnam,Kurti,633,348150,800
+2025-05,Visakhapatnam,Saree,333,299700,412
+2025-05,Visakhapatnam,Footwear,613,429100,721
+2025-05,Visakhapatnam,Handbags,381,304800,430
+2025-05,Visakhapatnam,Beauty,735,257250,820
+2025-05,Visakhapatnam,Kitchen,651,292950,726
+2025-05,Visakhapatnam,Home Decor,295,191750,369
+2025-05,Visakhapatnam,Mobile Accessories,325,97500,342
+2025-05,Visakhapatnam,Toys,521,208400,683
+2025-05,Visakhapatnam,Electronics,800,1200000,921
+2025-05,Pune,Kurti,277,152350,298
+2025-05,Pune,Saree,310,279000,372
+2025-05,Pune,Footwear,858,600600,921
+2025-05,Pune,Handbags,296,236800,358
+2025-05,Pune,Beauty,760,266000,899
+2025-05,Pune,Kitchen,530,238500,660
+2025-05,Pune,Home Decor,820,533000,1057
+2025-05,Pune,Mobile Accessories,509,152700,632
+2025-05,Pune,Toys,375,150000,443
+2025-05,Pune,Electronics,338,507000,367
+2025-05,Mumbai,Kurti,315,173250,377
+2025-05,Mumbai,Saree,393,353700,470
+2025-05,Mumbai,Footwear,719,503300,910
+2025-05,Mumbai,Handbags,874,699200,1033
+2025-05,Mumbai,Beauty,867,303450,912
+2025-05,Mumbai,Kitchen,399,179550,445
+2025-05,Mumbai,Home Decor,557,362050,729
+2025-05,Mumbai,Mobile Accessories,693,207900,751
+2025-05,Mumbai,Toys,735,294000,905
+2025-05,Mumbai,Electronics,711,1066500,869
+2025-05,Delhi,Kurti,417,229350,510
+2025-05,Delhi,Saree,698,628200,742
+2025-05,Delhi,Footwear,308,215600,372
+2025-05,Delhi,Handbags,848,678400,1030
+2025-05,Delhi,Beauty,561,196350,672
+2025-05,Delhi,Kitchen,807,363150,853
+2025-05,Delhi,Home Decor,487,316550,629
+2025-05,Delhi,Mobile Accessories,364,109200,412
+2025-05,Delhi,Toys,452,180800,504
+2025-05,Delhi,Electronics,279,418500,353
+2025-05,Kolkata,Kurti,646,355300,854
+2025-05,Kolkata,Saree,876,788400,1115
+2025-05,Kolkata,Footwear,955,668500,1177
+2025-05,Kolkata,Handbags,472,377600,598
+2025-05,Kolkata,Beauty,505,176750,602
+2025-05,Kolkata,Kitchen,585,263250,693
+2025-05,Kolkata,Home Decor,955,620750,1027
+2025-05,Kolkata,Mobile Accessories,524,157200,571
+2025-05,Kolkata,Toys,658,263200,701
+2025-05,Kolkata,Electronics,327,490500,349
+2025-06,Vijayawada,Kurti,285,156750,352
+2025-06,Vijayawada,Saree,337,303300,377
+2025-06,Vijayawada,Footwear,519,363300,575
+2025-06,Vijayawada,Handbags,578,462400,657
+2025-06,Vijayawada,Beauty,558,195300,705
+2025-06,Vijayawada,Kitchen,590,265500,707
+2025-06,Vijayawada,Home Decor,612,397800,742
+2025-06,Vijayawada,Mobile Accessories,310,93000,387
+2025-06,Vijayawada,Toys,326,130400,424
+2025-06,Vijayawada,Electronics,648,972000,798
+2025-06,Hyderabad,Kurti,550,302500,721
+2025-06,Hyderabad,Saree,437,393300,544
+2025-06,Hyderabad,Footwear,633,443100,781
+2025-06,Hyderabad,Handbags,263,210400,353
+2025-06,Hyderabad,Beauty,531,185850,671
+2025-06,Hyderabad,Kitchen,375,168750,499
+2025-06,Hyderabad,Home Decor,417,271050,525
+2025-06,Hyderabad,Mobile Accessories,506,151800,675
+2025-06,Hyderabad,Toys,471,188400,511
+2025-06,Hyderabad,Electronics,661,991500,743
+2025-06,Bengaluru,Kurti,259,142450,279
+2025-06,Bengaluru,Saree,396,356400,523
+2025-06,Bengaluru,Footwear,633,443100,847
+2025-06,Bengaluru,Handbags,481,384800,547
+2025-06,Bengaluru,Beauty,371,129850,399
+2025-06,Bengaluru,Kitchen,411,184950,554
+2025-06,Bengaluru,Home Decor,512,332800,651
+2025-06,Bengaluru,Mobile Accessories,594,178200,713
+2025-06,Bengaluru,Toys,548,219200,692
+2025-06,Bengaluru,Electronics,387,580500,439
+2025-06,Chennai,Kurti,520,286000,664
+2025-06,Chennai,Saree,286,257400,360
+2025-06,Chennai,Footwear,368,257600,439
+2025-06,Chennai,Handbags,329,263200,381
+2025-06,Chennai,Beauty,597,208950,674
+2025-06,Chennai,Kitchen,580,261000,741
+2025-06,Chennai,Home Decor,463,300950,533
+2025-06,Chennai,Mobile Accessories,383,114900,466
+2025-06,Chennai,Toys,389,155600,464
+2025-06,Chennai,Electronics,533,799500,701
+2025-06,Kochi,Kurti,258,141900,293
+2025-06,Kochi,Saree,430,387000,477
+2025-06,Kochi,Footwear,683,478100,868
+2025-06,Kochi,Handbags,601,480800,670
+2025-06,Kochi,Beauty,376,131600,460
+2025-06,Kochi,Kitchen,520,234000,563
+2025-06,Kochi,Home Decor,551,358150,605
+2025-06,Kochi,Mobile Accessories,569,170700,683
+2025-06,Kochi,Toys,352,140800,443
+2025-06,Kochi,Electronics,721,1081500,962
+2025-06,Visakhapatnam,Kurti,663,364650,760
+2025-06,Visakhapatnam,Saree,487,438300,630
+2025-06,Visakhapatnam,Footwear,380,266000,449
+2025-06,Visakhapatnam,Handbags,673,538400,878
+2025-06,Visakhapatnam,Beauty,587,205450,650
+2025-06,Visakhapatnam,Kitchen,728,327600,834
+2025-06,Visakhapatnam,Home Decor,539,350350,623
+2025-06,Visakhapatnam,Mobile Accessories,676,202800,828
+2025-06,Visakhapatnam,Toys,591,236400,773
+2025-06,Visakhapatnam,Electronics,693,1039500,819
+2025-06,Pune,Kurti,397,218350,432
+2025-06,Pune,Saree,546,491400,622
+2025-06,Pune,Footwear,445,311500,554
+2025-06,Pune,Handbags,444,355200,471
+2025-06,Pune,Beauty,494,172900,624
+2025-06,Pune,Kitchen,787,354150,998
+2025-06,Pune,Home Decor,400,260000,470
+2025-06,Pune,Mobile Accessories,775,232500,1016
+2025-06,Pune,Toys,545,218000,723
+2025-06,Pune,Electronics,480,720000,615
+2025-06,Mumbai,Kurti,812,446600,967
+2025-06,Mumbai,Saree,634,570600,703
+2025-06,Mumbai,Footwear,785,549500,910
+2025-06,Mumbai,Handbags,370,296000,423
+2025-06,Mumbai,Beauty,866,303100,952
+2025-06,Mumbai,Kitchen,634,285300,821
+2025-06,Mumbai,Home Decor,587,381550,620
+2025-06,Mumbai,Mobile Accessories,752,225600,920
+2025-06,Mumbai,Toys,539,215600,646
+2025-06,Mumbai,Electronics,450,675000,583
+2025-06,Delhi,Kurti,491,270050,633
+2025-06,Delhi,Saree,682,613800,720
+2025-06,Delhi,Footwear,600,420000,793
+2025-06,Delhi,Handbags,814,651200,938
+2025-06,Delhi,Beauty,701,245350,810
+2025-06,Delhi,Kitchen,382,171900,487
+2025-06,Delhi,Home Decor,422,274300,505
+2025-06,Delhi,Mobile Accessories,641,192300,771
+2025-06,Delhi,Toys,290,116000,376
+2025-06,Delhi,Electronics,324,486000,410
+2025-06,Kolkata,Kurti,384,211200,433
+2025-06,Kolkata,Saree,794,714600,839
+2025-06,Kolkata,Footwear,373,261100,448
+2025-06,Kolkata,Handbags,744,595200,836
+2025-06,Kolkata,Beauty,376,131600,454
+2025-06,Kolkata,Kitchen,746,335700,973
+2025-06,Kolkata,Home Decor,734,477100,976
+2025-06,Kolkata,Mobile Accessories,854,256200,1046
+2025-06,Kolkata,Toys,720,288000,939
+2025-06,Kolkata,Electronics,489,733500,647
+2025-07,Vijayawada,Kurti,210,115500,231
+2025-07,Vijayawada,Saree,262,235800,328
+2025-07,Vijayawada,Footwear,522,365400,643
+2025-07,Vijayawada,Handbags,507,405600,548
+2025-07,Vijayawada,Beauty,557,194950,615
+2025-07,Vijayawada,Kitchen,440,198000,536
+2025-07,Vijayawada,Home Decor,507,329550,547
+2025-07,Vijayawada,Mobile Accessories,575,172500,638
+2025-07,Vijayawada,Toys,639,255600,706
+2025-07,Vijayawada,Electronics,315,472500,375
+2025-07,Hyderabad,Kurti,259,142450,310
+2025-07,Hyderabad,Saree,489,440100,621
+2025-07,Hyderabad,Footwear,581,406700,770
+2025-07,Hyderabad,Handbags,518,414400,598
+2025-07,Hyderabad,Beauty,638,223300,692
+2025-07,Hyderabad,Kitchen,384,172800,418
+2025-07,Hyderabad,Home Decor,619,402350,677
+2025-07,Hyderabad,Mobile Accessories,247,74100,305
+2025-07,Hyderabad,Toys,614,245600,682
+2025-07,Hyderabad,Electronics,662,993000,808
+2025-07,Bengaluru,Kurti,240,132000,289
+2025-07,Bengaluru,Saree,613,551700,668
+2025-07,Bengaluru,Footwear,252,176400,317
+2025-07,Bengaluru,Handbags,375,300000,431
+2025-07,Bengaluru,Beauty,667,233450,899
+2025-07,Bengaluru,Kitchen,336,151200,356
+2025-07,Bengaluru,Home Decor,613,398450,729
+2025-07,Bengaluru,Mobile Accessories,435,130500,496
+2025-07,Bengaluru,Toys,562,224800,623
+2025-07,Bengaluru,Electronics,650,975000,817
+2025-07,Chennai,Kurti,781,429550,941
+2025-07,Chennai,Saree,430,387000,554
+2025-07,Chennai,Footwear,642,449400,763
+2025-07,Chennai,Handbags,502,401600,591
+2025-07,Chennai,Beauty,541,189350,709
+2025-07,Chennai,Kitchen,364,163800,418
+2025-07,Chennai,Home Decor,667,433550,714
+2025-07,Chennai,Mobile Accessories,717,215100,775
+2025-07,Chennai,Toys,466,186400,539
+2025-07,Chennai,Electronics,340,510000,392
+2025-07,Kochi,Kurti,277,152350,363
+2025-07,Kochi,Saree,652,586800,717
+2025-07,Kochi,Footwear,430,301000,504
+2025-07,Kochi,Handbags,561,448800,716
+2025-07,Kochi,Beauty,279,97650,313
+2025-07,Kochi,Kitchen,280,126000,322
+2025-07,Kochi,Home Decor,564,366600,728
+2025-07,Kochi,Mobile Accessories,422,126600,496
+2025-07,Kochi,Toys,687,274800,838
+2025-07,Kochi,Electronics,437,655500,557
+2025-07,Visakhapatnam,Kurti,285,156750,334
+2025-07,Visakhapatnam,Saree,615,553500,769
+2025-07,Visakhapatnam,Footwear,846,592200,1045
+2025-07,Visakhapatnam,Handbags,612,489600,647
+2025-07,Visakhapatnam,Beauty,328,114800,383
+2025-07,Visakhapatnam,Kitchen,652,293400,763
+2025-07,Visakhapatnam,Home Decor,649,421850,747
+2025-07,Visakhapatnam,Mobile Accessories,508,152400,669
+2025-07,Visakhapatnam,Toys,642,256800,844
+2025-07,Visakhapatnam,Electronics,644,966000,729
+2025-07,Pune,Kurti,758,416900,996
+2025-07,Pune,Saree,657,591300,766
+2025-07,Pune,Footwear,433,303100,539
+2025-07,Pune,Handbags,535,428000,606
+2025-07,Pune,Beauty,657,229950,735
+2025-07,Pune,Kitchen,836,376200,949
+2025-07,Pune,Home Decor,388,252200,436
+2025-07,Pune,Mobile Accessories,595,178500,677
+2025-07,Pune,Toys,770,308000,818
+2025-07,Pune,Electronics,475,712500,533
+2025-07,Mumbai,Kurti,392,215600,487
+2025-07,Mumbai,Saree,446,401400,514
+2025-07,Mumbai,Footwear,381,266700,428
+2025-07,Mumbai,Handbags,583,466400,617
+2025-07,Mumbai,Beauty,723,253050,890
+2025-07,Mumbai,Kitchen,350,157500,465
+2025-07,Mumbai,Home Decor,488,317200,554
+2025-07,Mumbai,Mobile Accessories,703,210900,829
+2025-07,Mumbai,Toys,734,293600,977
+2025-07,Mumbai,Electronics,670,1005000,808
+2025-07,Delhi,Kurti,451,248050,566
+2025-07,Delhi,Saree,508,457200,654
+2025-07,Delhi,Footwear,746,522200,886
+2025-07,Delhi,Handbags,481,384800,638
+2025-07,Delhi,Beauty,550,192500,682
+2025-07,Delhi,Kitchen,291,130950,335
+2025-07,Delhi,Home Decor,342,222300,451
+2025-07,Delhi,Mobile Accessories,797,239100,858
+2025-07,Delhi,Toys,401,160400,433
+2025-07,Delhi,Electronics,748,1122000,798
+2025-07,Kolkata,Kurti,838,460900,992
+2025-07,Kolkata,Saree,713,641700,859
+2025-07,Kolkata,Footwear,964,674800,1093
+2025-07,Kolkata,Handbags,388,310400,490
+2025-07,Kolkata,Beauty,384,134400,415
+2025-07,Kolkata,Kitchen,498,224100,652
+2025-07,Kolkata,Home Decor,502,326300,561
+2025-07,Kolkata,Mobile Accessories,812,243600,900
+2025-07,Kolkata,Toys,642,256800,860
+2025-07,Kolkata,Electronics,634,951000,761
+2025-08,Vijayawada,Kurti,382,210100,502
+2025-08,Vijayawada,Saree,607,546300,645
+2025-08,Vijayawada,Footwear,285,199500,324
+2025-08,Vijayawada,Handbags,462,369600,578
+2025-08,Vijayawada,Beauty,238,83300,291
+2025-08,Vijayawada,Kitchen,652,293400,800
+2025-08,Vijayawada,Home Decor,632,410800,740
+2025-08,Vijayawada,Mobile Accessories,310,93000,412
+2025-08,Vijayawada,Toys,690,276000,737
+2025-08,Vijayawada,Electronics,478,717000,524
+2025-08,Hyderabad,Kurti,423,232650,526
+2025-08,Hyderabad,Saree,470,423000,524
+2025-08,Hyderabad,Footwear,660,462000,820
+2025-08,Hyderabad,Handbags,256,204800,310
+2025-08,Hyderabad,Beauty,304,106400,403
+2025-08,Hyderabad,Kitchen,676,304200,842
+2025-08,Hyderabad,Home Decor,623,404950,795
+2025-08,Hyderabad,Mobile Accessories,373,111900,419
+2025-08,Hyderabad,Toys,604,241600,647
+2025-08,Hyderabad,Electronics,515,772500,612
+2025-08,Bengaluru,Kurti,258,141900,311
+2025-08,Bengaluru,Saree,500,450000,547
+2025-08,Bengaluru,Footwear,276,193200,295
+2025-08,Bengaluru,Handbags,248,198400,324
+2025-08,Bengaluru,Beauty,560,196000,645
+2025-08,Bengaluru,Kitchen,306,137700,373
+2025-08,Bengaluru,Home Decor,280,182000,377
+2025-08,Bengaluru,Mobile Accessories,678,203400,877
+2025-08,Bengaluru,Toys,438,175200,587
+2025-08,Bengaluru,Electronics,238,357000,296
+2025-08,Chennai,Kurti,563,309650,759
+2025-08,Chennai,Saree,764,687600,930
+2025-08,Chennai,Footwear,610,427000,712
+2025-08,Chennai,Handbags,712,569600,847
+2025-08,Chennai,Beauty,333,116550,407
+2025-08,Chennai,Kitchen,266,119700,353
+2025-08,Chennai,Home Decor,445,289250,556
+2025-08,Chennai,Mobile Accessories,344,103200,416
+2025-08,Chennai,Toys,487,194800,551
+2025-08,Chennai,Electronics,479,718500,547
+2025-08,Kochi,Kurti,500,275000,567
+2025-08,Kochi,Saree,361,324900,442
+2025-08,Kochi,Footwear,543,380100,573
+2025-08,Kochi,Handbags,720,576000,946
+2025-08,Kochi,Beauty,768,268800,834
+2025-08,Kochi,Kitchen,351,157950,454
+2025-08,Kochi,Home Decor,298,193700,376
+2025-08,Kochi,Mobile Accessories,443,132900,489
+2025-08,Kochi,Toys,263,105200,354
+2025-08,Kochi,Electronics,493,739500,610
+2025-08,Visakhapatnam,Kurti,762,419100,883
+2025-08,Visakhapatnam,Saree,291,261900,339
+2025-08,Visakhapatnam,Footwear,667,466900,711
+2025-08,Visakhapatnam,Handbags,771,616800,1005
+2025-08,Visakhapatnam,Beauty,476,166600,559
+2025-08,Visakhapatnam,Kitchen,700,315000,776
+2025-08,Visakhapatnam,Home Decor,755,490750,979
+2025-08,Visakhapatnam,Mobile Accessories,724,217200,839
+2025-08,Visakhapatnam,Toys,695,278000,935
+2025-08,Visakhapatnam,Electronics,596,894000,758
+2025-08,Pune,Kurti,531,292050,621
+2025-08,Pune,Saree,687,618300,729
+2025-08,Pune,Footwear,647,452900,833
+2025-08,Pune,Handbags,841,672800,1035
+2025-08,Pune,Beauty,705,246750,892
+2025-08,Pune,Kitchen,288,129600,316
+2025-08,Pune,Home Decor,498,323700,602
+2025-08,Pune,Mobile Accessories,810,243000,943
+2025-08,Pune,Toys,425,170000,453
+2025-08,Pune,Electronics,520,780000,674
+2025-08,Mumbai,Kurti,687,377850,852
+2025-08,Mumbai,Saree,476,428400,620
+2025-08,Mumbai,Footwear,391,273700,456
+2025-08,Mumbai,Handbags,747,597600,868
+2025-08,Mumbai,Beauty,434,151900,505
+2025-08,Mumbai,Kitchen,897,403650,1138
+2025-08,Mumbai,Home Decor,491,319150,597
+2025-08,Mumbai,Mobile Accessories,417,125100,464
+2025-08,Mumbai,Toys,758,303200,988
+2025-08,Mumbai,Electronics,728,1092000,885
+2025-08,Delhi,Kurti,747,410850,797
+2025-08,Delhi,Saree,523,470700,593
+2025-08,Delhi,Footwear,587,410900,722
+2025-08,Delhi,Handbags,778,622400,863
+2025-08,Delhi,Beauty,399,139650,425
+2025-08,Delhi,Kitchen,291,130950,332
+2025-08,Delhi,Home Decor,378,245700,438
+2025-08,Delhi,Mobile Accessories,612,183600,819
+2025-08,Delhi,Toys,347,138800,404
+2025-08,Delhi,Electronics,865,1297500,955
+2025-08,Kolkata,Kurti,614,337700,746
+2025-08,Kolkata,Saree,862,775800,922
+2025-08,Kolkata,Footwear,744,520800,982
+2025-08,Kolkata,Handbags,984,787200,1308
+2025-08,Kolkata,Beauty,338,118300,377
+2025-08,Kolkata,Kitchen,738,332100,848
+2025-08,Kolkata,Home Decor,868,564200,1158
+2025-08,Kolkata,Mobile Accessories,398,119400,496
+2025-08,Kolkata,Toys,526,210400,580
+2025-08,Kolkata,Electronics,520,780000,671
+2025-09,Vijayawada,Kurti,261,143550,307
+2025-09,Vijayawada,Saree,672,604800,845
+2025-09,Vijayawada,Footwear,228,159600,297
+2025-09,Vijayawada,Handbags,285,228000,380
+2025-09,Vijayawada,Beauty,284,99400,345
+2025-09,Vijayawada,Kitchen,324,145800,436
+2025-09,Vijayawada,Home Decor,620,403000,688
+2025-09,Vijayawada,Mobile Accessories,534,160200,619
+2025-09,Vijayawada,Toys,270,108000,312
+2025-09,Vijayawada,Electronics,218,327000,277
+2025-09,Hyderabad,Kurti,495,272250,529
+2025-09,Hyderabad,Saree,421,378900,541
+2025-09,Hyderabad,Footwear,612,428400,782
+2025-09,Hyderabad,Handbags,689,551200,728
+2025-09,Hyderabad,Beauty,299,104650,339
+2025-09,Hyderabad,Kitchen,232,104400,271
+2025-09,Hyderabad,Home Decor,662,430300,800
+2025-09,Hyderabad,Mobile Accessories,642,192600,679
+2025-09,Hyderabad,Toys,588,235200,695
+2025-09,Hyderabad,Electronics,292,438000,359
+2025-09,Bengaluru,Kurti,426,234300,540
+2025-09,Bengaluru,Saree,332,298800,432
+2025-09,Bengaluru,Footwear,232,162400,309
+2025-09,Bengaluru,Handbags,329,263200,439
+2025-09,Bengaluru,Beauty,766,268100,883
+2025-09,Bengaluru,Kitchen,263,118350,306
+2025-09,Bengaluru,Home Decor,461,299650,489
+2025-09,Bengaluru,Mobile Accessories,660,198000,793
+2025-09,Bengaluru,Toys,234,93600,278
+2025-09,Bengaluru,Electronics,680,1020000,748
+2025-09,Chennai,Kurti,661,363550,786
+2025-09,Chennai,Saree,355,319500,374
+2025-09,Chennai,Footwear,301,210700,381
+2025-09,Chennai,Handbags,450,360000,474
+2025-09,Chennai,Beauty,318,111300,356
+2025-09,Chennai,Kitchen,785,353250,1003
+2025-09,Chennai,Home Decor,313,203450,385
+2025-09,Chennai,Mobile Accessories,421,126300,452
+2025-09,Chennai,Toys,307,122800,331
+2025-09,Chennai,Electronics,571,856500,733
+2025-09,Kochi,Kurti,468,257400,513
+2025-09,Kochi,Saree,512,460800,591
+2025-09,Kochi,Footwear,792,554400,1065
+2025-09,Kochi,Handbags,482,385600,614
+2025-09,Kochi,Beauty,297,103950,389
+2025-09,Kochi,Kitchen,414,186300,510
+2025-09,Kochi,Home Decor,591,384150,659
+2025-09,Kochi,Mobile Accessories,722,216600,921
+2025-09,Kochi,Toys,683,273200,872
+2025-09,Kochi,Electronics,460,690000,502
+2025-09,Visakhapatnam,Kurti,712,391600,905
+2025-09,Visakhapatnam,Saree,442,397800,467
+2025-09,Visakhapatnam,Footwear,336,235200,418
+2025-09,Visakhapatnam,Handbags,771,616800,823
+2025-09,Visakhapatnam,Beauty,551,192850,647
+2025-09,Visakhapatnam,Kitchen,638,287100,840
+2025-09,Visakhapatnam,Home Decor,836,543400,1004
+2025-09,Visakhapatnam,Mobile Accessories,768,230400,808
+2025-09,Visakhapatnam,Toys,393,157200,487
+2025-09,Visakhapatnam,Electronics,756,1134000,949
+2025-09,Pune,Kurti,320,176000,374
+2025-09,Pune,Saree,507,456300,663
+2025-09,Pune,Footwear,414,289800,481
+2025-09,Pune,Handbags,658,526400,724
+2025-09,Pune,Beauty,798,279300,1051
+2025-09,Pune,Kitchen,746,335700,834
+2025-09,Pune,Home Decor,666,432900,835
+2025-09,Pune,Mobile Accessories,817,245100,997
+2025-09,Pune,Toys,291,116400,357
+2025-09,Pune,Electronics,742,1113000,824
+2025-09,Mumbai,Kurti,871,479050,1058
+2025-09,Mumbai,Saree,561,504900,590
+2025-09,Mumbai,Footwear,892,624400,1071
+2025-09,Mumbai,Handbags,833,666400,946
+2025-09,Mumbai,Beauty,338,118300,401
+2025-09,Mumbai,Kitchen,400,180000,460
+2025-09,Mumbai,Home Decor,576,374400,621
+2025-09,Mumbai,Mobile Accessories,432,129600,558
+2025-09,Mumbai,Toys,754,301600,958
+2025-09,Mumbai,Electronics,531,796500,667
+2025-09,Delhi,Kurti,607,333850,818
+2025-09,Delhi,Saree,652,586800,827
+2025-09,Delhi,Footwear,825,577500,873
+2025-09,Delhi,Handbags,695,556000,828
+2025-09,Delhi,Beauty,433,151550,547
+2025-09,Delhi,Kitchen,468,210600,568
+2025-09,Delhi,Home Decor,760,494000,834
+2025-09,Delhi,Mobile Accessories,764,229200,993
+2025-09,Delhi,Toys,344,137600,405
+2025-09,Delhi,Electronics,399,598500,456
+2025-09,Kolkata,Kurti,525,288750,691
+2025-09,Kolkata,Saree,365,328500,465
+2025-09,Kolkata,Footwear,399,279300,533
+2025-09,Kolkata,Handbags,491,392800,526
+2025-09,Kolkata,Beauty,408,142800,509
+2025-09,Kolkata,Kitchen,958,431100,1233
+2025-09,Kolkata,Home Decor,609,395850,789
+2025-09,Kolkata,Mobile Accessories,878,263400,1051
+2025-09,Kolkata,Toys,897,358800,1096
+2025-09,Kolkata,Electronics,635,952500,831
+2025-10,Vijayawada,Kurti,751,413050,867
+2025-10,Vijayawada,Saree,684,615600,885
+2025-10,Vijayawada,Footwear,566,396200,721
+2025-10,Vijayawada,Handbags,271,216800,329
+2025-10,Vijayawada,Beauty,589,206150,653
+2025-10,Vijayawada,Kitchen,609,274050,653
+2025-10,Vijayawada,Home Decor,302,196300,357
+2025-10,Vijayawada,Mobile Accessories,311,93300,339
+2025-10,Vijayawada,Toys,342,136800,392
+2025-10,Vijayawada,Electronics,310,465000,352
+2025-10,Hyderabad,Kurti,721,396550,947
+2025-10,Hyderabad,Saree,814,732600,1056
+2025-10,Hyderabad,Footwear,639,447300,727
+2025-10,Hyderabad,Handbags,848,678400,1057
+2025-10,Hyderabad,Beauty,708,247800,834
+2025-10,Hyderabad,Kitchen,759,341550,993
+2025-10,Hyderabad,Home Decor,548,356200,673
+2025-10,Hyderabad,Mobile Accessories,488,146400,646
+2025-10,Hyderabad,Toys,397,158800,533
+2025-10,Hyderabad,Electronics,672,1008000,905
+2025-10,Bengaluru,Kurti,361,198550,467
+2025-10,Bengaluru,Saree,680,612000,892
+2025-10,Bengaluru,Footwear,502,351400,547
+2025-10,Bengaluru,Handbags,319,255200,377
+2025-10,Bengaluru,Beauty,718,251300,963
+2025-10,Bengaluru,Kitchen,750,337500,944
+2025-10,Bengaluru,Home Decor,704,457600,815
+2025-10,Bengaluru,Mobile Accessories,294,88200,360
+2025-10,Bengaluru,Toys,477,190800,503
+2025-10,Bengaluru,Electronics,734,1101000,838
+2025-10,Chennai,Kurti,369,202950,421
+2025-10,Chennai,Saree,796,716400,918
+2025-10,Chennai,Footwear,416,291200,516
+2025-10,Chennai,Handbags,362,289600,394
+2025-10,Chennai,Beauty,865,302750,1147
+2025-10,Chennai,Kitchen,846,380700,1101
+2025-10,Chennai,Home Decor,820,533000,1080
+2025-10,Chennai,Mobile Accessories,492,147600,605
+2025-10,Chennai,Toys,321,128400,342
+2025-10,Chennai,Electronics,809,1213500,950
+2025-10,Kochi,Kurti,875,481250,1014
+2025-10,Kochi,Saree,507,456300,661
+2025-10,Kochi,Footwear,911,637700,1211
+2025-10,Kochi,Handbags,427,341600,525
+2025-10,Kochi,Beauty,744,260400,965
+2025-10,Kochi,Kitchen,875,393750,1125
+2025-10,Kochi,Home Decor,891,579150,1111
+2025-10,Kochi,Mobile Accessories,295,88500,337
+2025-10,Kochi,Toys,950,380000,1032
+2025-10,Kochi,Electronics,787,1180500,1029
+2025-10,Visakhapatnam,Kurti,391,215050,465
+2025-10,Visakhapatnam,Saree,769,692100,847
+2025-10,Visakhapatnam,Footwear,847,592900,904
+2025-10,Visakhapatnam,Handbags,902,721600,1048
+2025-10,Visakhapatnam,Beauty,545,190750,589
+2025-10,Visakhapatnam,Kitchen,336,151200,369
+2025-10,Visakhapatnam,Home Decor,843,547950,895
+2025-10,Visakhapatnam,Mobile Accessories,616,184800,660
+2025-10,Visakhapatnam,Toys,1020,408000,1135
+2025-10,Visakhapatnam,Electronics,1010,1515000,1066
+2025-10,Pune,Kurti,666,366300,768
+2025-10,Pune,Saree,1044,939600,1261
+2025-10,Pune,Footwear,632,442400,732
+2025-10,Pune,Handbags,607,485600,738
+2025-10,Pune,Beauty,855,299250,1069
+2025-10,Pune,Kitchen,585,263250,620
+2025-10,Pune,Home Decor,832,540800,1026
+2025-10,Pune,Mobile Accessories,641,192300,839
+2025-10,Pune,Toys,532,212800,646
+2025-10,Pune,Electronics,715,1072500,892
+2025-10,Mumbai,Kurti,745,409750,805
+2025-10,Mumbai,Saree,943,848700,1240
+2025-10,Mumbai,Footwear,1007,704900,1280
+2025-10,Mumbai,Handbags,617,493600,716
+2025-10,Mumbai,Beauty,458,160300,481
+2025-10,Mumbai,Kitchen,482,216900,541
+2025-10,Mumbai,Home Decor,939,610350,1037
+2025-10,Mumbai,Mobile Accessories,833,249900,1080
+2025-10,Mumbai,Toys,476,190400,598
+2025-10,Mumbai,Electronics,641,961500,728
+2025-10,Delhi,Kurti,509,279950,633
+2025-10,Delhi,Saree,1136,1022400,1305
+2025-10,Delhi,Footwear,1021,714700,1073
+2025-10,Delhi,Handbags,612,489600,725
+2025-10,Delhi,Beauty,877,306950,945
+2025-10,Delhi,Kitchen,445,200250,488
+2025-10,Delhi,Home Decor,457,297050,487
+2025-10,Delhi,Mobile Accessories,674,202200,731
+2025-10,Delhi,Toys,743,297200,994
+2025-10,Delhi,Electronics,802,1203000,847
+2025-10,Kolkata,Kurti,1157,636350,1521
+2025-10,Kolkata,Saree,1129,1016100,1484
+2025-10,Kolkata,Footwear,816,571200,1067
+2025-10,Kolkata,Handbags,1179,943200,1562
+2025-10,Kolkata,Beauty,807,282450,1086
+2025-10,Kolkata,Kitchen,667,300150,889
+2025-10,Kolkata,Home Decor,717,466050,852
+2025-10,Kolkata,Mobile Accessories,532,159600,608
+2025-10,Kolkata,Toys,1077,430800,1171
+2025-10,Kolkata,Electronics,1138,1707000,1368
+2025-11,Vijayawada,Kurti,702,386100,918
+2025-11,Vijayawada,Saree,370,333000,423
+2025-11,Vijayawada,Footwear,685,479500,736
+2025-11,Vijayawada,Handbags,478,382400,577
+2025-11,Vijayawada,Beauty,506,177100,571
+2025-11,Vijayawada,Kitchen,414,186300,459
+2025-11,Vijayawada,Home Decor,642,417300,803
+2025-11,Vijayawada,Mobile Accessories,357,107100,480
+2025-11,Vijayawada,Toys,339,135600,421
+2025-11,Vijayawada,Electronics,312,468000,392
+2025-11,Hyderabad,Kurti,399,219450,512
+2025-11,Hyderabad,Saree,865,778500,1145
+2025-11,Hyderabad,Footwear,462,323400,585
+2025-11,Hyderabad,Handbags,300,240000,404
+2025-11,Hyderabad,Beauty,556,194600,680
+2025-11,Hyderabad,Kitchen,570,256500,693
+2025-11,Hyderabad,Home Decor,344,223600,436
+2025-11,Hyderabad,Mobile Accessories,352,105600,419
+2025-11,Hyderabad,Toys,737,294800,863
+2025-11,Hyderabad,Electronics,478,717000,589
+2025-11,Bengaluru,Kurti,890,489500,1099
+2025-11,Bengaluru,Saree,732,658800,798
+2025-11,Bengaluru,Footwear,632,442400,787
+2025-11,Bengaluru,Handbags,291,232800,376
+2025-11,Bengaluru,Beauty,881,308350,1104
+2025-11,Bengaluru,Kitchen,571,256950,729
+2025-11,Bengaluru,Home Decor,382,248300,494
+2025-11,Bengaluru,Mobile Accessories,358,107400,436
+2025-11,Bengaluru,Toys,493,197200,531
+2025-11,Bengaluru,Electronics,684,1026000,845
+2025-11,Chennai,Kurti,592,325600,681
+2025-11,Chennai,Saree,504,453600,649
+2025-11,Chennai,Footwear,287,200900,378
+2025-11,Chennai,Handbags,685,548000,746
+2025-11,Chennai,Beauty,708,247800,867
+2025-11,Chennai,Kitchen,891,400950,1116
+2025-11,Chennai,Home Decor,786,510900,916
+2025-11,Chennai,Mobile Accessories,500,150000,624
+2025-11,Chennai,Toys,887,354800,1060
+2025-11,Chennai,Electronics,565,847500,760
+2025-11,Kochi,Kurti,651,358050,810
+2025-11,Kochi,Saree,488,439200,524
+2025-11,Kochi,Footwear,778,544600,911
+2025-11,Kochi,Handbags,377,301600,448
+2025-11,Kochi,Beauty,769,269150,935
+2025-11,Kochi,Kitchen,717,322650,754
+2025-11,Kochi,Home Decor,928,603200,1229
+2025-11,Kochi,Mobile Accessories,918,275400,1075
+2025-11,Kochi,Toys,397,158800,438
+2025-11,Kochi,Electronics,339,508500,443
+2025-11,Visakhapatnam,Kurti,844,464200,1088
+2025-11,Visakhapatnam,Saree,625,562500,805
+2025-11,Visakhapatnam,Footwear,755,528500,946
+2025-11,Visakhapatnam,Handbags,368,294400,457
+2025-11,Visakhapatnam,Beauty,455,159250,478
+2025-11,Visakhapatnam,Kitchen,484,217800,602
+2025-11,Visakhapatnam,Home Decor,1008,655200,1269
+2025-11,Visakhapatnam,Mobile Accessories,904,271200,1068
+2025-11,Visakhapatnam,Toys,399,159600,479
+2025-11,Visakhapatnam,Electronics,430,645000,576
+2025-11,Pune,Kurti,540,297000,683
+2025-11,Pune,Saree,921,828900,1117
+2025-11,Pune,Footwear,1022,715400,1138
+2025-11,Pune,Handbags,716,572800,910
+2025-11,Pune,Beauty,480,168000,550
+2025-11,Pune,Kitchen,434,195300,575
+2025-11,Pune,Home Decor,740,481000,780
+2025-11,Pune,Mobile Accessories,841,252300,1088
+2025-11,Pune,Toys,471,188400,607
+2025-11,Pune,Electronics,932,1398000,999
+2025-11,Mumbai,Kurti,722,397100,838
+2025-11,Mumbai,Saree,375,337500,471
+2025-11,Mumbai,Footwear,798,558600,867
+2025-11,Mumbai,Handbags,659,527200,761
+2025-11,Mumbai,Beauty,590,206500,767
+2025-11,Mumbai,Kitchen,827,372150,957
+2025-11,Mumbai,Home Decor,968,629200,1121
+2025-11,Mumbai,Mobile Accessories,596,178800,683
+2025-11,Mumbai,Toys,509,203600,601
+2025-11,Mumbai,Electronics,829,1243500,1012
+2025-11,Delhi,Kurti,711,391050,754
+2025-11,Delhi,Saree,1156,1040400,1404
+2025-11,Delhi,Footwear,377,263900,421
+2025-11,Delhi,Handbags,452,361600,541
+2025-11,Delhi,Beauty,980,343000,1183
+2025-11,Delhi,Kitchen,862,387900,1043
+2025-11,Delhi,Home Decor,581,377650,712
+2025-11,Delhi,Mobile Accessories,465,139500,550
+2025-11,Delhi,Toys,428,171200,510
+2025-11,Delhi,Electronics,475,712500,554
+2025-11,Kolkata,Kurti,1186,652300,1506
+2025-11,Kolkata,Saree,982,883800,1150
+2025-11,Kolkata,Footwear,485,339500,652
+2025-11,Kolkata,Handbags,1114,891200,1487
+2025-11,Kolkata,Beauty,1099,384650,1246
+2025-11,Kolkata,Kitchen,523,235350,642
+2025-11,Kolkata,Home Decor,782,508300,909
+2025-11,Kolkata,Mobile Accessories,398,119400,468
+2025-11,Kolkata,Toys,1020,408000,1176
+2025-11,Kolkata,Electronics,782,1173000,948
+2025-12,Vijayawada,Kurti,785,431750,963
+2025-12,Vijayawada,Saree,453,407700,591
+2025-12,Vijayawada,Footwear,632,442400,849
+2025-12,Vijayawada,Handbags,460,368000,505
+2025-12,Vijayawada,Beauty,607,212450,819
+2025-12,Vijayawada,Kitchen,302,135900,398
+2025-12,Vijayawada,Home Decor,303,196950,383
+2025-12,Vijayawada,Mobile Accessories,611,183300,692
+2025-12,Vijayawada,Toys,616,246400,777
+2025-12,Vijayawada,Electronics,653,979500,868
+2025-12,Hyderabad,Kurti,638,350900,713
+2025-12,Hyderabad,Saree,530,477000,583
+2025-12,Hyderabad,Footwear,835,584500,1025
+2025-12,Hyderabad,Handbags,565,452000,681
+2025-12,Hyderabad,Beauty,345,120750,429
+2025-12,Hyderabad,Kitchen,599,269550,703
+2025-12,Hyderabad,Home Decor,726,471900,822
+2025-12,Hyderabad,Mobile Accessories,423,126900,489
+2025-12,Hyderabad,Toys,384,153600,412
+2025-12,Hyderabad,Electronics,784,1176000,1047
+2025-12,Bengaluru,Kurti,609,334950,814
+2025-12,Bengaluru,Saree,825,742500,939
+2025-12,Bengaluru,Footwear,856,599200,980
+2025-12,Bengaluru,Handbags,356,284800,409
+2025-12,Bengaluru,Beauty,862,301700,1160
+2025-12,Bengaluru,Kitchen,860,387000,1122
+2025-12,Bengaluru,Home Decor,818,531700,957
+2025-12,Bengaluru,Mobile Accessories,450,135000,523
+2025-12,Bengaluru,Toys,345,138000,435
+2025-12,Bengaluru,Electronics,858,1287000,1061
+2025-12,Chennai,Kurti,386,212300,438
+2025-12,Chennai,Saree,503,452700,598
+2025-12,Chennai,Footwear,378,264600,407
+2025-12,Chennai,Handbags,944,755200,1166
+2025-12,Chennai,Beauty,863,302050,1088
+2025-12,Chennai,Kitchen,733,329850,815
+2025-12,Chennai,Home Decor,731,475150,784
+2025-12,Chennai,Mobile Accessories,963,288900,1176
+2025-12,Chennai,Toys,388,155200,505
+2025-12,Chennai,Electronics,946,1419000,1215
+2025-12,Kochi,Kurti,564,310200,687
+2025-12,Kochi,Saree,376,338400,444
+2025-12,Kochi,Footwear,971,679700,1061
+2025-12,Kochi,Handbags,582,465600,691
+2025-12,Kochi,Beauty,618,216300,672
+2025-12,Kochi,Kitchen,572,257400,623
+2025-12,Kochi,Home Decor,483,313950,634
+2025-12,Kochi,Mobile Accessories,681,204300,893
+2025-12,Kochi,Toys,463,185200,558
+2025-12,Kochi,Electronics,324,486000,386
+2025-12,Visakhapatnam,Kurti,638,350900,819
+2025-12,Visakhapatnam,Saree,570,513000,758
+2025-12,Visakhapatnam,Footwear,319,223300,386
+2025-12,Visakhapatnam,Handbags,461,368800,615
+2025-12,Visakhapatnam,Beauty,384,134400,489
+2025-12,Visakhapatnam,Kitchen,396,178200,529
+2025-12,Visakhapatnam,Home Decor,600,390000,731
+2025-12,Visakhapatnam,Mobile Accessories,942,282600,1228
+2025-12,Visakhapatnam,Toys,350,140000,461
+2025-12,Visakhapatnam,Electronics,409,613500,524
+2025-12,Pune,Kurti,436,239800,564
+2025-12,Pune,Saree,910,819000,1138
+2025-12,Pune,Footwear,816,571200,1087
+2025-12,Pune,Handbags,838,670400,999
+2025-12,Pune,Beauty,443,155050,535
+2025-12,Pune,Kitchen,408,183600,524
+2025-12,Pune,Home Decor,419,272350,503
+2025-12,Pune,Mobile Accessories,646,193800,701
+2025-12,Pune,Toys,1023,409200,1355
+2025-12,Pune,Electronics,927,1390500,1158
+2025-12,Mumbai,Kurti,990,544500,1218
+2025-12,Mumbai,Saree,1051,945900,1378
+2025-12,Mumbai,Footwear,827,578900,982
+2025-12,Mumbai,Handbags,496,396800,581
+2025-12,Mumbai,Beauty,1060,371000,1395
+2025-12,Mumbai,Kitchen,743,334350,983
+2025-12,Mumbai,Home Decor,611,397150,692
+2025-12,Mumbai,Mobile Accessories,428,128400,519
+2025-12,Mumbai,Toys,373,149200,434
+2025-12,Mumbai,Electronics,1126,1689000,1438
+2025-12,Delhi,Kurti,886,487300,969
+2025-12,Delhi,Saree,942,847800,1264
+2025-12,Delhi,Footwear,1064,744800,1159
+2025-12,Delhi,Handbags,1050,840000,1334
+2025-12,Delhi,Beauty,1060,371000,1279
+2025-12,Delhi,Kitchen,444,199800,533
+2025-12,Delhi,Home Decor,481,312650,533
+2025-12,Delhi,Mobile Accessories,467,140100,541
+2025-12,Delhi,Toys,545,218000,702
+2025-12,Delhi,Electronics,966,1449000,1118
+2025-12,Kolkata,Kurti,886,487300,1083
+2025-12,Kolkata,Saree,496,446400,627
+2025-12,Kolkata,Footwear,428,299600,471
+2025-12,Kolkata,Handbags,937,749600,1115
+2025-12,Kolkata,Beauty,1003,351050,1149
+2025-12,Kolkata,Kitchen,540,243000,608
+2025-12,Kolkata,Home Decor,669,434850,712
+2025-12,Kolkata,Mobile Accessories,684,205200,808
+2025-12,Kolkata,Toys,457,182800,529
+2025-12,Kolkata,Electronics,749,1123500,940
